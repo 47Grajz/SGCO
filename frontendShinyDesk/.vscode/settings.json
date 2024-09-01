@@ -1,0 +1,17 @@
+{
+    "editor.fontFamily": "\"InputMono\"",
+    "terminal.integrated.fontWeightBold": "bold",
+    "editor.cursorBlinking": "expand",
+    "editor.linkedEditing": true,
+    "editor.guides.bracketPairs": true,
+    "editor.cursorSmoothCaretAnimation": "on",
+    "cSpell.words": [
+        "encontrado",
+    ],
+    "search.exclude": {
+        "": true,
+        "**/*.code-search": false,
+        "**/bower_components": false,
+        "**/node_modules": false
+    }
+}

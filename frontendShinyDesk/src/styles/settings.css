@@ -1,0 +1,146 @@
+.contSE {
+  width: 100%;
+  padding: 40px;
+}
+
+.section {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 60px;
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid #ccc;
+}
+
+.section h5 {
+  margin-top: 20px;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.timeInput {
+  width: 20%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+}
+
+.setting {
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  align-items: center;
+
+}
+
+.setting .bolder {
+  font-weight: bold;
+}
+
+.buttonsSE {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 250px;
+}
+
+.buttonSE {
+  border-radius: 20px;
+  width: 100px;
+  height: 30px;
+  font-weight: bolder;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+}
+
+.buttonSE:hover {
+  transform: scale(1.05);
+}
+
+.purple {
+  color: aliceblue;
+  background-color: var(--principalBlue);
+}
+
+.gray {
+  background-color: #ccc;
+  color: var(--principalBlue);
+  border: 1px solid var(--principalBlue);
+}
+
+
+/* The switch - the box around the slider */
+.switch {
+  font-size: 17px;
+  position: relative;
+  display: inline-block;
+  width: 3.5em;
+  height: 2em;
+}
+
+/* Hide default HTML checkbox */
+.switch input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+/* The slider */
+.slider {
+  position: absolute;
+  cursor: pointer;
+  inset: 0;
+  background: white;
+  border-radius: 50px;
+  border: 1px solid #ccc;
+  overflow: hidden;
+  transition: all 0.4s cubic-bezier(0.215, 0.610, 0.355, 1);
+}
+
+.slider:before {
+  position: absolute;
+  content: "";
+  height: 1.4em;
+  width: 1.4em;
+  right: 0.3em;
+  bottom: 0.3em;
+  transform: translateX(150%);
+  background-color: var(--principalBlue);
+  border-radius: inherit;
+  transition: all 0.4s cubic-bezier(0.215, 0.610, 0.355, 1);
+}
+
+.slider:after {
+  position: absolute;
+  content: "";
+  height: 1.4em;
+  width: 1.4em;
+  left: 0.3em;
+  bottom: 0.3em;
+  background-color: #cccccc;
+  border-radius: inherit;
+  transition: all 0.4s cubic-bezier(0.215, 0.610, 0.355, 1);
+}
+
+.switch input:focus+.slider {
+  box-shadow: 0 0 1px #59d102;
+}
+
+.switch input:checked+.slider:before {
+  transform: translateY(0);
+}
+
+.switch input:checked+.slider::after {
+  transform: translateX(-150%);
+}
+
+
+
+@media only screen and (max-width: 1247px) {}
+
+@media only screen and (max-width: 768px) {}
+
+
+@media only screen and (max-width: 425px) {}

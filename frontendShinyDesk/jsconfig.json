@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "jsx": "react",
+    "baseUrl": ".",
+    "allowJs": true, // Añade esta línea
+    "paths": {
+      "@/*": ["*"]
+    }
+  }
+}

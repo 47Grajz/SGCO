@@ -1,0 +1,297 @@
+.containerCH {
+  width: 70%;
+  display: flex;
+  flex-direction: column;
+  padding-top: 30px;
+}
+
+.firs-info_div {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 0 20px 0;
+
+}
+
+/* 
+estilos radio button */
+
+.radio-buttons_div {
+  width: 100%;
+  display: flex;
+  border: 1px solid var(--principalBlue);
+  border-radius: 10px;
+  margin-top: 10px;
+  padding: 20px;
+  background-color: #FFFFFF;
+}
+
+.buttons_rightCH {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  gap: 20px;
+}
+
+.button-radio {
+  display: flex;
+  align-items: center;
+
+}
+
+.button-radio p {
+  width: 60%;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.radios {
+  display: flex;
+  justify-content: space-between;
+  align-items: end;
+  width: 20%;
+  text-align: start;
+}
+
+.radios p {
+  width: 30px;
+  text-align: center;
+}
+
+.selects {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+
+}
+
+
+/* 
+estilos seccion antecedentes y observaciones */
+
+
+.section {
+  margin-top: 40px;
+  background-color: #FFFFFF;
+}
+
+.section p {
+  margin-bottom: 10px;
+  font-size: 18px;
+}
+
+.area-section {
+  width: 100%;
+  height: 150px;
+  border: 1px solid var(--principalBlue);
+  padding: 10px;
+  font-size: 15px;
+  font-weight: 400;
+  border-radius: 10px;
+  resize: none;
+}
+
+
+.area-info {
+  display: flex;
+  width: 100%;
+  gap: 20px;
+  border: 1px solid var(--principalBlue);
+  padding: 10px;
+  font-size: 15px;
+  font-weight: 400;
+  border-radius: 10px;
+}
+
+.section-info p span {
+  font-size: 20px;
+  font-weight: bold;
+  margin-right: 10px;
+}
+
+.section-info {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+
+
+.section-info_2 {
+  display: flex;
+  flex-direction: column;
+  margin-left: 20px;
+  gap: 30px;
+}
+
+
+
+.input_2 label {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+
+.input-2_item {
+  width: 160px;
+  border-bottom: 1px solid var(--principalBlue);
+  margin-left: 10px;
+}
+
+
+
+
+
+.inputCH {
+  width: 400px;
+  height: 44px;
+  padding: 0 1rem;
+  border-bottom: 1px solid var(--principalBlue);
+  font-size: 1rem;
+  transition: border-color .3s cubic-bezier(.25, .01, .25, 1) 0s, color .3s cubic-bezier(.25, .01, .25, 1) 0s, background .2s cubic-bezier(.25, .01, .25, 1) 0s;
+}
+
+.label {
+  display: block;
+  margin-bottom: .3rem;
+  font-size: 20px;
+  font-weight: bold;
+  color: #05060f99;
+  transition: color .3s cubic-bezier(.25, .01, .25, 1) 0s;
+}
+
+.input:hover,
+.input:focus,
+.input-groupCH:hover .input {
+  outline: none;
+  border-color: #05060f;
+}
+
+.input-groupCH:hover .label,
+.input:focus {
+  color: #05060fc2;
+}
+
+
+
+.cyberpunk-checkbox {
+  appearance: none;
+  width: 30px;
+  height: 30px;
+  border: 2px solid var(--principalBlue);
+  border-radius: 20px;
+  background-color: transparent;
+  display: inline-block;
+  position: relative;
+  cursor: pointer;
+}
+
+.cyberpunk-checkbox:before {
+  content: "";
+  background-color: var(--principalBlue);
+  display: block;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%) scale(0);
+  width: 20px;
+  height: 20px;
+  border-radius: 20px;
+  transition: all 0.3s ease-in-out;
+}
+
+.cyberpunk-checkbox:checked:before {
+  transform: translate(-50%, -50%) scale(1);
+}
+
+
+
+.cyberpunk-checkbox-label {
+  font-size: 25px;
+  color: black;
+  cursor: pointer;
+  user-select: none;
+  display: flex;
+  align-items: center;
+  font-weight: lighter;
+}
+
+
+
+
+@media only screen and (max-width: 1152px) {
+
+  .input {
+    width: 100%;
+  }
+
+}
+
+
+
+@media only screen and (max-width: 768px) {
+
+
+  .radio-buttons_div {
+    flex-direction: column;
+  }
+
+  .buttons_right {
+    width: 100%;
+    margin-top: 10px;
+  }
+
+  .button-radio {
+    justify-content: space-between;
+    padding: 0px 20px 0px 20px;
+  }
+
+
+}
+
+
+
+@media only screen and (max-width: 425px) {
+
+
+  .container {
+    width: 90%;
+  }
+
+  .firs-info_div {
+    flex-direction: column;
+    gap: 30px;
+  }
+
+  .selects {
+    gap: 10px;
+  }
+
+  .radios {
+    gap: 30px;
+  }
+
+  .area-info {
+    flex-direction: column;
+  }
+
+  .radio-buttons_div {
+    justify-content: center;
+  }
+
+
+  .selects {
+    gap: 15px;
+  }
+
+  .section-info_2 {
+    margin-left: 0;
+    padding-right: 20px;
+  }
+
+  .input-2_item {
+    margin-top: 10px;
+    width: 100%;
+    padding-right: 20px;
+  }
+
+}

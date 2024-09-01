@@ -1,0 +1,1000 @@
+[{"departamento":"Antioquia","value":"Medellín"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.002","value":"Abejorral"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.004","value":"Abriaquí"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.021","value":"Alejandría"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.03","value":"Amagá"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.031","value":"Amalfi"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.034","value":"Andes"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.036","value":"Angelópolis"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.038","value":"Angostura"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.04","value":"Anorí"}
+,{"departamento":"Boyacá","value":"Tununguá"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.044","value":"Anza"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.045","value":"Apartadó"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.051","value":"Arboletes"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.055","value":"Argelia"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.059","value":"Armenia"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.079","value":"Barbosa"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.088","value":"Bello"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.091","value":"Betania"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.093","value":"Betulia"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.101","value":"Ciudad Bolívar"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.107","value":"Briceño"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.113","value":"Buriticá"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.12","value":"Cáceres"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.125","value":"Caicedo"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.129","value":"Caldas"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.134","value":"Campamento"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.138","value":"Cañasgordas"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.142","value":"Caracolí"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.145","value":"Caramanta"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.147","value":"Carepa"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.476","value":"Motavita"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.15","value":"Carolina"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.154","value":"Caucasia"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.172","value":"Chigorodó"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.19","value":"Cisneros"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.197","value":"Cocorná"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.206","value":"Concepción"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.209","value":"Concordia"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.212","value":"Copacabana"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.234","value":"Dabeiba"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.237","value":"Don Matías"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.24","value":"Ebéjico"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.25","value":"El Bagre"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.264","value":"Entrerrios"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.266","value":"Envigado"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.282","value":"Fredonia"}
+,{"c_digo_dane_del_departamento":"23","departamento":"Córdoba","c_digo_dane_del_value":"23.675","value":"San Bernardo del Viento"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.306","value":"Giraldo"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.308","value":"Girardota"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.31","value":"Gómez Plata"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"27","departamento":"Chocó","c_digo_dane_del_value":"27.361","value":"Istmina"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.315","value":"Guadalupe"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.318","value":"Guarne"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.321","value":"Guatapé"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.347","value":"Heliconia"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.353","value":"Hispania"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.36","value":"Itagui"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.361","value":"Ituango"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.086","value":"Belmira"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.368","value":"Jericó"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.376","value":"La Ceja"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.38","value":"La Estrella"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.39","value":"La Pintada"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.4","value":"La Unión"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.411","value":"Liborina"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.425","value":"Maceo"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.44","value":"Marinilla"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.467","value":"Montebello"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.475","value":"Murindó"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.48","value":"Mutatá"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.483","value":"Nariño"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.49","value":"Necoclí"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.495","value":"Nechí"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.501","value":"Olaya"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.541","value":"Peñol"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.543","value":"Peque"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.576","value":"Pueblorrico"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.579","value":"Puerto Berrío"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.585","value":"Puerto Nare"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.591","value":"Puerto Triunfo"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.604","value":"Remedios"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.607","value":"Retiro"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.615","value":"Rionegro"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.628","value":"Sabanalarga"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.631","value":"Sabaneta"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.642","value":"Salgar"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.189","value":"Ciénega"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"52","departamento":"Nariño","c_digo_dane_del_value":"52.699","value":"Santacruz"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.652","value":"San Francisco"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.656","value":"San Jerónimo"}
+,{"c_digo_dane_del_departamento":"68","departamento":"Santander","c_digo_dane_del_value":"68.575","value":"Puerto Wilches"}
+,{"c_digo_dane_del_departamento":"68","departamento":"Santander","c_digo_dane_del_value":"68.573","value":"Puerto Parra"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.66","value":"San Luis"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.664","value":"San Pedro"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.667","value":"San Rafael"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.67","value":"San Roque"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.674","value":"San Vicente"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.679","value":"Santa Bárbara"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.69","value":"Santo Domingo"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.697","value":"El Santuario"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.736","value":"Segovia"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.761","value":"Sopetrán"}
+,{"region":"Región Llano","c_digo_dane_del_departamento":"50","departamento":"Meta","c_digo_dane_del_value":"50.37","value":"Uribe"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.789","value":"Támesis"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.79","value":"Tarazá"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.792","value":"Tarso"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.809","value":"Titiribí"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.819","value":"Toledo"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.837","value":"Turbo"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.842","value":"Uramita"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.847","value":"Urrao"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.854","value":"Valdivia"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.856","value":"Valparaíso"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.858","value":"Vegachí"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.861","value":"Venecia"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.885","value":"Yalí"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.887","value":"Yarumal"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.89","value":"Yolombó"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.893","value":"Yondó"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.895","value":"Zaragoza"}
+,{"c_digo_dane_del_departamento":"8","departamento":"Atlántico","c_digo_dane_del_value":"8.001","value":"Barranquilla"}
+,{"c_digo_dane_del_departamento":"8","departamento":"Atlántico","c_digo_dane_del_value":"8.078","value":"Baranoa"}
+,{"c_digo_dane_del_departamento":"8","departamento":"Atlántico","c_digo_dane_del_value":"8.141","value":"Candelaria"}
+,{"c_digo_dane_del_departamento":"8","departamento":"Atlántico","c_digo_dane_del_value":"8.296","value":"Galapa"}
+,{"c_digo_dane_del_departamento":"8","departamento":"Atlántico","c_digo_dane_del_value":"8.421","value":"Luruaco"}
+,{"c_digo_dane_del_departamento":"8","departamento":"Atlántico","c_digo_dane_del_value":"8.433","value":"Malambo"}
+,{"c_digo_dane_del_departamento":"8","departamento":"Atlántico","c_digo_dane_del_value":"8.436","value":"Manatí"}
+,{"c_digo_dane_del_departamento":"8","departamento":"Atlántico","c_digo_dane_del_value":"8.549","value":"Piojó"}
+,{"c_digo_dane_del_departamento":"8","departamento":"Atlántico","c_digo_dane_del_value":"8.558","value":"Polonuevo"}
+,{"c_digo_dane_del_departamento":"8","departamento":"Atlántico","c_digo_dane_del_value":"8.634","value":"Sabanagrande"}
+,{"c_digo_dane_del_departamento":"8","departamento":"Atlántico","c_digo_dane_del_value":"8.638","value":"Sabanalarga"}
+,{"c_digo_dane_del_departamento":"8","departamento":"Atlántico","c_digo_dane_del_value":"8.675","value":"Santa Lucía"}
+,{"c_digo_dane_del_departamento":"8","departamento":"Atlántico","c_digo_dane_del_value":"8.685","value":"Santo Tomás"}
+,{"c_digo_dane_del_departamento":"8","departamento":"Atlántico","c_digo_dane_del_value":"8.758","value":"Soledad"}
+,{"c_digo_dane_del_departamento":"8","departamento":"Atlántico","c_digo_dane_del_value":"8.77","value":"Suan"}
+,{"c_digo_dane_del_departamento":"8","departamento":"Atlántico","c_digo_dane_del_value":"8.832","value":"Tubará"}
+,{"c_digo_dane_del_departamento":"8","departamento":"Atlántico","c_digo_dane_del_value":"8.849","value":"Usiacurí"}
+,{"c_digo_dane_del_departamento":"13","departamento":"Bolívar","c_digo_dane_del_value":"13.006","value":"Achí"}
+,{"c_digo_dane_del_departamento":"13","departamento":"Bolívar","c_digo_dane_del_value":"13.042","value":"Arenal"}
+,{"c_digo_dane_del_departamento":"13","departamento":"Bolívar","c_digo_dane_del_value":"13.052","value":"Arjona"}
+,{"c_digo_dane_del_departamento":"13","departamento":"Bolívar","c_digo_dane_del_value":"13.062","value":"Arroyohondo"}
+,{"c_digo_dane_del_departamento":"13","departamento":"Bolívar","c_digo_dane_del_value":"13.14","value":"Calamar"}
+,{"c_digo_dane_del_departamento":"13","departamento":"Bolívar","c_digo_dane_del_value":"13.16","value":"Cantagallo"}
+,{"c_digo_dane_del_departamento":"13","departamento":"Bolívar","c_digo_dane_del_value":"13.188","value":"Cicuco"}
+,{"c_digo_dane_del_departamento":"13","departamento":"Bolívar","c_digo_dane_del_value":"13.212","value":"Córdoba"}
+,{"c_digo_dane_del_departamento":"13","departamento":"Bolívar","c_digo_dane_del_value":"13.222","value":"Clemencia"}
+,{"c_digo_dane_del_departamento":"13","departamento":"Bolívar","c_digo_dane_del_value":"13.248","value":"El Guamo"}
+,{"c_digo_dane_del_departamento":"13","departamento":"Bolívar","c_digo_dane_del_value":"13.43","value":"Magangué"}
+,{"c_digo_dane_del_departamento":"13","departamento":"Bolívar","c_digo_dane_del_value":"13.433","value":"Mahates"}
+,{"c_digo_dane_del_departamento":"13","departamento":"Bolívar","c_digo_dane_del_value":"13.44","value":"Margarita"}
+,{"c_digo_dane_del_departamento":"13","departamento":"Bolívar","c_digo_dane_del_value":"13.458","value":"Montecristo"}
+,{"c_digo_dane_del_departamento":"13","departamento":"Bolívar","c_digo_dane_del_value":"13.468","value":"Mompós"}
+,{"c_digo_dane_del_departamento":"13","departamento":"Bolívar","c_digo_dane_del_value":"13.473","value":"Morales"}
+,{"c_digo_dane_del_departamento":"13","departamento":"Bolívar","c_digo_dane_del_value":"13.49","value":"Norosí"}
+,{"c_digo_dane_del_departamento":"13","departamento":"Bolívar","c_digo_dane_del_value":"13.549","value":"Pinillos"}
+,{"c_digo_dane_del_departamento":"13","departamento":"Bolívar","c_digo_dane_del_value":"13.58","value":"Regidor"}
+,{"c_digo_dane_del_departamento":"13","departamento":"Bolívar","c_digo_dane_del_value":"13.6","value":"Río Viejo"}
+,{"c_digo_dane_del_departamento":"13","departamento":"Bolívar","c_digo_dane_del_value":"13.647","value":"San Estanislao"}
+,{"c_digo_dane_del_departamento":"13","departamento":"Bolívar","c_digo_dane_del_value":"13.65","value":"San Fernando"}
+,{"c_digo_dane_del_departamento":"13","departamento":"Bolívar","c_digo_dane_del_value":"13.657","value":"San Juan Nepomuceno"}
+,{"c_digo_dane_del_departamento":"13","departamento":"Bolívar","c_digo_dane_del_value":"13.673","value":"Santa Catalina"}
+,{"c_digo_dane_del_departamento":"13","departamento":"Bolívar","c_digo_dane_del_value":"13.683","value":"Santa Rosa"}
+,{"c_digo_dane_del_departamento":"13","departamento":"Bolívar","c_digo_dane_del_value":"13.744","value":"Simití"}
+,{"c_digo_dane_del_departamento":"13","departamento":"Bolívar","c_digo_dane_del_value":"13.76","value":"Soplaviento"}
+,{"c_digo_dane_del_departamento":"13","departamento":"Bolívar","c_digo_dane_del_value":"13.78","value":"Talaigua Nuevo"}
+,{"c_digo_dane_del_departamento":"13","departamento":"Bolívar","c_digo_dane_del_value":"13.81","value":"Tiquisio"}
+,{"c_digo_dane_del_departamento":"13","departamento":"Bolívar","c_digo_dane_del_value":"13.836","value":"Turbaco"}
+,{"c_digo_dane_del_departamento":"13","departamento":"Bolívar","c_digo_dane_del_value":"13.838","value":"Turbaná"}
+,{"c_digo_dane_del_departamento":"13","departamento":"Bolívar","c_digo_dane_del_value":"13.873","value":"Villanueva"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.001","value":"Tunja"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.022","value":"Almeida"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.047","value":"Aquitania"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.051","value":"Arcabuco"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.09","value":"Berbeo"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.092","value":"Betéitiva"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.097","value":"Boavita"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.104","value":"Boyacá"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.106","value":"Briceño"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.109","value":"Buena Vista"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.114","value":"Busbanzá"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.131","value":"Caldas"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.135","value":"Campohermoso"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.162","value":"Cerinza"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.172","value":"Chinavita"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.176","value":"Chiquinquirá"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.18","value":"Chiscas"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.183","value":"Chita"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.185","value":"Chitaraque"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.187","value":"Chivatá"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.204","value":"Cómbita"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.212","value":"Coper"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.215","value":"Corrales"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.218","value":"Covarachía"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.223","value":"Cubará"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.224","value":"Cucaita"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.226","value":"Cuítiva"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.232","value":"Chíquiza"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.236","value":"Chivor"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.238","value":"Duitama"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.244","value":"El Cocuy"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.248","value":"El Espino"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.272","value":"Firavitoba"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.276","value":"Floresta"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.293","value":"Gachantivá"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.296","value":"Gameza"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.299","value":"Garagoa"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.317","value":"Guacamayas"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.322","value":"Guateque"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.325","value":"Guayatá"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.332","value":"Güicán"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.362","value":"Iza"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.367","value":"Jenesano"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.368","value":"Jericó"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.377","value":"Labranzagrande"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.38","value":"La Capilla"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.401","value":"La Victoria"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.425","value":"Macanal"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.442","value":"Maripí"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.455","value":"Miraflores"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.464","value":"Mongua"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.466","value":"Monguí"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.469","value":"Moniquirá"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.48","value":"Muzo"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.491","value":"Nobsa"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.494","value":"Nuevo Colón"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.5","value":"Oicatá"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.507","value":"Otanche"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.511","value":"Pachavita"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.514","value":"Páez"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.516","value":"Paipa"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.518","value":"Pajarito"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.522","value":"Panqueba"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.531","value":"Pauna"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.533","value":"Paya"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.542","value":"Pesca"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.55","value":"Pisba"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.572","value":"Puerto Boyacá"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.58","value":"Quípama"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.599","value":"Ramiriquí"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.6","value":"Ráquira"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.621","value":"Rondón"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.632","value":"Saboyá"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.638","value":"Sáchica"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.646","value":"Samacá"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.66","value":"San Eduardo"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.673","value":"San Mateo"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.686","value":"Santana"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.69","value":"Santa María"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.696","value":"Santa Sofía"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.72","value":"Sativanorte"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.723","value":"Sativasur"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.74","value":"Siachoque"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.753","value":"Soatá"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.755","value":"Socotá"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.757","value":"Socha"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.759","value":"Sogamoso"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.761","value":"Somondoco"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.762","value":"Sora"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.763","value":"Sotaquirá"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.764","value":"Soracá"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.774","value":"Susacón"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.776","value":"Sutamarchán"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.778","value":"Sutatenza"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.79","value":"Tasco"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.798","value":"Tenza"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.804","value":"Tibaná"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.808","value":"Tinjacá"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.81","value":"Tipacoque"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.814","value":"Toca"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.82","value":"Tópaga"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.822","value":"Tota"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.835","value":"Turmequé"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.839","value":"Tutazá"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.842","value":"Umbita"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.861","value":"Ventaquemada"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.879","value":"Viracachá"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.897","value":"Zetaquira"}
+,{"departamento":"Caldas","c_digo_dane_del_value":"17.001","value":"Manizales"}
+,{"departamento":"Caldas","c_digo_dane_del_value":"17.013","value":"Aguadas"}
+,{"departamento":"Caldas","c_digo_dane_del_value":"17.042","value":"Anserma"}
+,{"departamento":"Caldas","c_digo_dane_del_value":"17.05","value":"Aranzazu"}
+,{"departamento":"Caldas","c_digo_dane_del_value":"17.088","value":"Belalcázar"}
+,{"departamento":"Caldas","c_digo_dane_del_value":"17.174","value":"Chinchiná"}
+,{"departamento":"Caldas","c_digo_dane_del_value":"17.272","value":"Filadelfia"}
+,{"departamento":"Caldas","c_digo_dane_del_value":"17.38","value":"La Dorada"}
+,{"departamento":"Caldas","c_digo_dane_del_value":"17.388","value":"La Merced"}
+,{"departamento":"Caldas","c_digo_dane_del_value":"17.433","value":"Manzanares"}
+,{"departamento":"Caldas","c_digo_dane_del_value":"17.442","value":"Marmato"}
+,{"departamento":"Caldas","c_digo_dane_del_value":"17.446","value":"Marulanda"}
+,{"departamento":"Caldas","c_digo_dane_del_value":"17.486","value":"Neira"}
+,{"departamento":"Caldas","c_digo_dane_del_value":"17.495","value":"Norcasia"}
+,{"departamento":"Caldas","c_digo_dane_del_value":"17.513","value":"Pácora"}
+,{"departamento":"Caldas","c_digo_dane_del_value":"17.524","value":"Palestina"}
+,{"departamento":"Caldas","c_digo_dane_del_value":"17.541","value":"Pensilvania"}
+,{"departamento":"Caldas","c_digo_dane_del_value":"17.614","value":"Riosucio"}
+,{"departamento":"Caldas","c_digo_dane_del_value":"17.616","value":"Risaralda"}
+,{"departamento":"Caldas","c_digo_dane_del_value":"17.653","value":"Salamina"}
+,{"departamento":"Caldas","c_digo_dane_del_value":"17.662","value":"Samaná"}
+,{"departamento":"Caldas","c_digo_dane_del_value":"17.665","value":"San José"}
+,{"departamento":"Caldas","c_digo_dane_del_value":"17.777","value":"Supía"}
+,{"departamento":"Caldas","c_digo_dane_del_value":"17.867","value":"Victoria"}
+,{"departamento":"Caldas","c_digo_dane_del_value":"17.873","value":"Villamaría"}
+,{"departamento":"Caldas","c_digo_dane_del_value":"17.877","value":"Viterbo"}
+,{"c_digo_dane_del_departamento":"18","departamento":"Caquetá","c_digo_dane_del_value":"18.001","value":"Florencia"}
+,{"c_digo_dane_del_departamento":"18","departamento":"Caquetá","c_digo_dane_del_value":"18.029","value":"Albania"}
+,{"c_digo_dane_del_departamento":"18","departamento":"Caquetá","c_digo_dane_del_value":"18.205","value":"Curillo"}
+,{"c_digo_dane_del_departamento":"18","departamento":"Caquetá","c_digo_dane_del_value":"18.247","value":"El Doncello"}
+,{"c_digo_dane_del_departamento":"18","departamento":"Caquetá","c_digo_dane_del_value":"18.256","value":"El Paujil"}
+,{"c_digo_dane_del_departamento":"18","departamento":"Caquetá","c_digo_dane_del_value":"18.479","value":"Morelia"}
+,{"c_digo_dane_del_departamento":"18","departamento":"Caquetá","c_digo_dane_del_value":"18.592","value":"Puerto Rico"}
+,{"c_digo_dane_del_departamento":"18","departamento":"Caquetá","c_digo_dane_del_value":"18.756","value":"Solano"}
+,{"c_digo_dane_del_departamento":"18","departamento":"Caquetá","c_digo_dane_del_value":"18.785","value":"Solita"}
+,{"c_digo_dane_del_departamento":"18","departamento":"Caquetá","c_digo_dane_del_value":"18.86","value":"Valparaíso"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"19","departamento":"Cauca","c_digo_dane_del_value":"19.001","value":"Popayán"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"19","departamento":"Cauca","c_digo_dane_del_value":"19.022","value":"Almaguer"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"19","departamento":"Cauca","c_digo_dane_del_value":"19.05","value":"Argelia"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"19","departamento":"Cauca","c_digo_dane_del_value":"19.075","value":"Balboa"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"19","departamento":"Cauca","c_digo_dane_del_value":"19.1","value":"Bolívar"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"19","departamento":"Cauca","c_digo_dane_del_value":"19.11","value":"Buenos Aires"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"19","departamento":"Cauca","c_digo_dane_del_value":"19.13","value":"Cajibío"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"19","departamento":"Cauca","c_digo_dane_del_value":"19.137","value":"Caldono"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"19","departamento":"Cauca","c_digo_dane_del_value":"19.142","value":"Caloto"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"19","departamento":"Cauca","c_digo_dane_del_value":"19.212","value":"Corinto"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"19","departamento":"Cauca","c_digo_dane_del_value":"19.256","value":"El Tambo"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"19","departamento":"Cauca","c_digo_dane_del_value":"19.29","value":"Florencia"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"19","departamento":"Cauca","c_digo_dane_del_value":"19.3","value":"Guachené"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"19","departamento":"Cauca","c_digo_dane_del_value":"19.318","value":"Guapi"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"19","departamento":"Cauca","c_digo_dane_del_value":"19.355","value":"Inzá"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"19","departamento":"Cauca","c_digo_dane_del_value":"19.364","value":"Jambaló"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"19","departamento":"Cauca","c_digo_dane_del_value":"19.392","value":"La Sierra"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"19","departamento":"Cauca","c_digo_dane_del_value":"19.397","value":"La Vega"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"19","departamento":"Cauca","c_digo_dane_del_value":"19.418","value":"López"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"19","departamento":"Cauca","c_digo_dane_del_value":"19.45","value":"Mercaderes"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"19","departamento":"Cauca","c_digo_dane_del_value":"19.455","value":"Miranda"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"19","departamento":"Cauca","c_digo_dane_del_value":"19.473","value":"Morales"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"19","departamento":"Cauca","c_digo_dane_del_value":"19.513","value":"Padilla"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"19","departamento":"Cauca","c_digo_dane_del_value":"19.532","value":"Patía"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"19","departamento":"Cauca","c_digo_dane_del_value":"19.533","value":"Piamonte"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"19","departamento":"Cauca","c_digo_dane_del_value":"19.548","value":"Piendamó"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"19","departamento":"Cauca","c_digo_dane_del_value":"19.573","value":"Puerto Tejada"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"19","departamento":"Cauca","c_digo_dane_del_value":"19.585","value":"Puracé"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"19","departamento":"Cauca","c_digo_dane_del_value":"19.622","value":"Rosas"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"19","departamento":"Cauca","c_digo_dane_del_value":"19.701","value":"Santa Rosa"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"19","departamento":"Cauca","c_digo_dane_del_value":"19.743","value":"Silvia"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"19","departamento":"Cauca","c_digo_dane_del_value":"19.76","value":"Sotara"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"19","departamento":"Cauca","c_digo_dane_del_value":"19.78","value":"Suárez"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"19","departamento":"Cauca","c_digo_dane_del_value":"19.785","value":"Sucre"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"19","departamento":"Cauca","c_digo_dane_del_value":"19.807","value":"Timbío"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"19","departamento":"Cauca","c_digo_dane_del_value":"19.809","value":"Timbiquí"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"19","departamento":"Cauca","c_digo_dane_del_value":"19.821","value":"Toribio"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"19","departamento":"Cauca","c_digo_dane_del_value":"19.824","value":"Totoró"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"19","departamento":"Cauca","c_digo_dane_del_value":"19.845","value":"Villa Rica"}
+,{"c_digo_dane_del_departamento":"20","departamento":"Cesar","c_digo_dane_del_value":"20.001","value":"Valledupar"}
+,{"c_digo_dane_del_departamento":"20","departamento":"Cesar","c_digo_dane_del_value":"20.011","value":"Aguachica"}
+,{"c_digo_dane_del_departamento":"20","departamento":"Cesar","c_digo_dane_del_value":"20.013","value":"Agustín Codazzi"}
+,{"c_digo_dane_del_departamento":"20","departamento":"Cesar","c_digo_dane_del_value":"20.032","value":"Astrea"}
+,{"c_digo_dane_del_departamento":"20","departamento":"Cesar","c_digo_dane_del_value":"20.045","value":"Becerril"}
+,{"c_digo_dane_del_departamento":"20","departamento":"Cesar","c_digo_dane_del_value":"20.06","value":"Bosconia"}
+,{"c_digo_dane_del_departamento":"20","departamento":"Cesar","c_digo_dane_del_value":"20.175","value":"Chimichagua"}
+,{"c_digo_dane_del_departamento":"20","departamento":"Cesar","c_digo_dane_del_value":"20.178","value":"Chiriguaná"}
+,{"c_digo_dane_del_departamento":"20","departamento":"Cesar","c_digo_dane_del_value":"20.228","value":"Curumaní"}
+,{"c_digo_dane_del_departamento":"20","departamento":"Cesar","c_digo_dane_del_value":"20.238","value":"El Copey"}
+,{"c_digo_dane_del_departamento":"20","departamento":"Cesar","c_digo_dane_del_value":"20.25","value":"El Paso"}
+,{"c_digo_dane_del_departamento":"20","departamento":"Cesar","c_digo_dane_del_value":"20.295","value":"Gamarra"}
+,{"c_digo_dane_del_departamento":"20","departamento":"Cesar","c_digo_dane_del_value":"20.31","value":"González"}
+,{"c_digo_dane_del_departamento":"20","departamento":"Cesar","c_digo_dane_del_value":"20.383","value":"La Gloria"}
+,{"c_digo_dane_del_departamento":"20","departamento":"Cesar","c_digo_dane_del_value":"20.443","value":"Manaure"}
+,{"c_digo_dane_del_departamento":"20","departamento":"Cesar","c_digo_dane_del_value":"20.517","value":"Pailitas"}
+,{"c_digo_dane_del_departamento":"20","departamento":"Cesar","c_digo_dane_del_value":"20.55","value":"Pelaya"}
+,{"c_digo_dane_del_departamento":"20","departamento":"Cesar","c_digo_dane_del_value":"20.57","value":"Pueblo Bello"}
+,{"c_digo_dane_del_departamento":"20","departamento":"Cesar","c_digo_dane_del_value":"20.621","value":"La Paz"}
+,{"c_digo_dane_del_departamento":"20","departamento":"Cesar","c_digo_dane_del_value":"20.71","value":"San Alberto"}
+,{"c_digo_dane_del_departamento":"20","departamento":"Cesar","c_digo_dane_del_value":"20.75","value":"San Diego"}
+,{"c_digo_dane_del_departamento":"20","departamento":"Cesar","c_digo_dane_del_value":"20.77","value":"San Martín"}
+,{"c_digo_dane_del_departamento":"20","departamento":"Cesar","c_digo_dane_del_value":"20.787","value":"Tamalameque"}
+,{"c_digo_dane_del_departamento":"23","departamento":"Córdoba","c_digo_dane_del_value":"23.001","value":"Montería"}
+,{"c_digo_dane_del_departamento":"23","departamento":"Córdoba","c_digo_dane_del_value":"23.068","value":"Ayapel"}
+,{"c_digo_dane_del_departamento":"23","departamento":"Córdoba","c_digo_dane_del_value":"23.079","value":"Buenavista"}
+,{"c_digo_dane_del_departamento":"23","departamento":"Córdoba","c_digo_dane_del_value":"23.09","value":"Canalete"}
+,{"c_digo_dane_del_departamento":"23","departamento":"Córdoba","c_digo_dane_del_value":"23.162","value":"Cereté"}
+,{"c_digo_dane_del_departamento":"23","departamento":"Córdoba","c_digo_dane_del_value":"23.168","value":"Chimá"}
+,{"c_digo_dane_del_departamento":"23","departamento":"Córdoba","c_digo_dane_del_value":"23.182","value":"Chinú"}
+,{"c_digo_dane_del_departamento":"23","departamento":"Córdoba","c_digo_dane_del_value":"23.3","value":"Cotorra"}
+,{"c_digo_dane_del_departamento":"23","departamento":"Córdoba","c_digo_dane_del_value":"23.417","value":"Lorica"}
+,{"c_digo_dane_del_departamento":"23","departamento":"Córdoba","c_digo_dane_del_value":"23.419","value":"Los Córdobas"}
+,{"c_digo_dane_del_departamento":"23","departamento":"Córdoba","c_digo_dane_del_value":"23.464","value":"Momil"}
+,{"c_digo_dane_del_departamento":"23","departamento":"Córdoba","c_digo_dane_del_value":"23.5","value":"Moñitos"}
+,{"c_digo_dane_del_departamento":"23","departamento":"Córdoba","c_digo_dane_del_value":"23.555","value":"Planeta Rica"}
+,{"c_digo_dane_del_departamento":"23","departamento":"Córdoba","c_digo_dane_del_value":"23.57","value":"Pueblo Nuevo"}
+,{"c_digo_dane_del_departamento":"23","departamento":"Córdoba","c_digo_dane_del_value":"23.574","value":"Puerto Escondido"}
+,{"c_digo_dane_del_departamento":"23","departamento":"Córdoba","c_digo_dane_del_value":"23.586","value":"Purísima"}
+,{"c_digo_dane_del_departamento":"23","departamento":"Córdoba","c_digo_dane_del_value":"23.66","value":"Sahagún"}
+,{"c_digo_dane_del_departamento":"23","departamento":"Córdoba","c_digo_dane_del_value":"23.67","value":"San Andrés Sotavento"}
+,{"c_digo_dane_del_departamento":"23","departamento":"Córdoba","c_digo_dane_del_value":"23.672","value":"San Antero"}
+,{"c_digo_dane_del_departamento":"23","departamento":"Córdoba","c_digo_dane_del_value":"23.686","value":"San Pelayo"}
+,{"c_digo_dane_del_departamento":"23","departamento":"Córdoba","c_digo_dane_del_value":"23.807","value":"Tierralta"}
+,{"c_digo_dane_del_departamento":"23","departamento":"Córdoba","c_digo_dane_del_value":"23.815","value":"Tuchín"}
+,{"c_digo_dane_del_departamento":"23","departamento":"Córdoba","c_digo_dane_del_value":"23.855","value":"Valencia"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.035","value":"Anapoima"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.053","value":"Arbeláez"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.086","value":"Beltrán"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.095","value":"Bituima"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.099","value":"Bojacá"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.12","value":"Cabrera"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.123","value":"Cachipay"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.126","value":"Cajicá"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.148","value":"Caparrapí"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.151","value":"Caqueza"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.168","value":"Chaguaní"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.178","value":"Chipaque"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.181","value":"Choachí"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.183","value":"Chocontá"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.2","value":"Cogua"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.214","value":"Cota"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.224","value":"Cucunubá"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.245","value":"El Colegio"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.26","value":"El Rosal"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.279","value":"Fomeque"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.281","value":"Fosca"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.286","value":"Funza"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.288","value":"Fúquene"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.293","value":"Gachala"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.295","value":"Gachancipá"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.297","value":"Gachetá"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.307","value":"Girardot"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.312","value":"Granada"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.317","value":"Guachetá"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.32","value":"Guaduas"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.322","value":"Guasca"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.324","value":"Guataquí"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.326","value":"Guatavita"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.335","value":"Guayabetal"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.339","value":"Gutiérrez"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.368","value":"Jerusalén"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.372","value":"Junín"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.377","value":"La Calera"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.386","value":"La Mesa"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.394","value":"La Palma"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.398","value":"La Peña"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.402","value":"La Vega"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.407","value":"Lenguazaque"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.426","value":"Macheta"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.43","value":"Madrid"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.436","value":"Manta"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.438","value":"Medina"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.473","value":"Mosquera"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.483","value":"Nariño"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.486","value":"Nemocón"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.488","value":"Nilo"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.489","value":"Nimaima"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.491","value":"Nocaima"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.506","value":"Venecia"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.513","value":"Pacho"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.518","value":"Paime"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.524","value":"Pandi"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.53","value":"Paratebueno"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.535","value":"Pasca"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.572","value":"Puerto Salgar"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.58","value":"Pulí"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.592","value":"Quebradanegra"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.594","value":"Quetame"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.596","value":"Quipile"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.599","value":"Apulo"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.612","value":"Ricaurte"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.649","value":"San Bernardo"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.653","value":"San Cayetano"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.658","value":"San Francisco"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.736","value":"Sesquilé"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.74","value":"Sibaté"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.743","value":"Silvania"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.745","value":"Simijaca"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.754","value":"Soacha"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.769","value":"Subachoque"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.772","value":"Suesca"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.777","value":"Supatá"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.779","value":"Susa"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.781","value":"Sutatausa"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.785","value":"Tabio"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.793","value":"Tausa"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.797","value":"Tena"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.799","value":"Tenjo"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.805","value":"Tibacuy"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.807","value":"Tibirita"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.815","value":"Tocaima"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.817","value":"Tocancipá"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.823","value":"Topaipí"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.839","value":"Ubalá"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.841","value":"Ubaque"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.845","value":"Une"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.851","value":"Útica"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.867","value":"Vianí"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.871","value":"Villagómez"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.873","value":"Villapinzón"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.875","value":"Villeta"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.878","value":"Viotá"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.898","value":"Zipacón"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"27","departamento":"Chocó","c_digo_dane_del_value":"27.001","value":"Quibdó"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"27","departamento":"Chocó","c_digo_dane_del_value":"27.006","value":"Acandí"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"27","departamento":"Chocó","c_digo_dane_del_value":"27.025","value":"Alto Baudo"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"27","departamento":"Chocó","c_digo_dane_del_value":"27.05","value":"Atrato"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"27","departamento":"Chocó","c_digo_dane_del_value":"27.073","value":"Bagadó"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"27","departamento":"Chocó","c_digo_dane_del_value":"27.075","value":"Bahía Solano"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"27","departamento":"Chocó","c_digo_dane_del_value":"27.077","value":"Bajo Baudó"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"27","departamento":"Chocó","c_digo_dane_del_value":"27.099","value":"Bojaya"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"27","departamento":"Chocó","c_digo_dane_del_value":"27.16","value":"Cértegui"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"27","departamento":"Chocó","c_digo_dane_del_value":"27.205","value":"Condoto"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"27","departamento":"Chocó","c_digo_dane_del_value":"27.372","value":"Juradó"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"27","departamento":"Chocó","c_digo_dane_del_value":"27.413","value":"Lloró"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"27","departamento":"Chocó","c_digo_dane_del_value":"27.425","value":"Medio Atrato"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"27","departamento":"Chocó","c_digo_dane_del_value":"27.43","value":"Medio Baudó"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"27","departamento":"Chocó","c_digo_dane_del_value":"27.45","value":"Medio San Juan"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"27","departamento":"Chocó","c_digo_dane_del_value":"27.491","value":"Nóvita"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"27","departamento":"Chocó","c_digo_dane_del_value":"27.495","value":"Nuquí"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"27","departamento":"Chocó","c_digo_dane_del_value":"27.58","value":"Río Iro"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"27","departamento":"Chocó","c_digo_dane_del_value":"27.6","value":"Río Quito"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"27","departamento":"Chocó","c_digo_dane_del_value":"27.615","value":"Riosucio"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"27","departamento":"Chocó","c_digo_dane_del_value":"27.745","value":"Sipí"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"27","departamento":"Chocó","c_digo_dane_del_value":"27.8","value":"Unguía"}
+,{"c_digo_dane_del_departamento":"41","departamento":"Huila","c_digo_dane_del_value":"41.001","value":"Neiva"}
+,{"c_digo_dane_del_departamento":"41","departamento":"Huila","c_digo_dane_del_value":"41.006","value":"Acevedo"}
+,{"c_digo_dane_del_departamento":"41","departamento":"Huila","c_digo_dane_del_value":"41.013","value":"Agrado"}
+,{"c_digo_dane_del_departamento":"41","departamento":"Huila","c_digo_dane_del_value":"41.016","value":"Aipe"}
+,{"c_digo_dane_del_departamento":"41","departamento":"Huila","c_digo_dane_del_value":"41.02","value":"Algeciras"}
+,{"c_digo_dane_del_departamento":"41","departamento":"Huila","c_digo_dane_del_value":"41.026","value":"Altamira"}
+,{"c_digo_dane_del_departamento":"41","departamento":"Huila","c_digo_dane_del_value":"41.078","value":"Baraya"}
+,{"c_digo_dane_del_departamento":"41","departamento":"Huila","c_digo_dane_del_value":"41.132","value":"Campoalegre"}
+,{"c_digo_dane_del_departamento":"41","departamento":"Huila","c_digo_dane_del_value":"41.206","value":"Colombia"}
+,{"c_digo_dane_del_departamento":"41","departamento":"Huila","c_digo_dane_del_value":"41.244","value":"Elías"}
+,{"c_digo_dane_del_departamento":"41","departamento":"Huila","c_digo_dane_del_value":"41.298","value":"Garzón"}
+,{"c_digo_dane_del_departamento":"41","departamento":"Huila","c_digo_dane_del_value":"41.306","value":"Gigante"}
+,{"c_digo_dane_del_departamento":"41","departamento":"Huila","c_digo_dane_del_value":"41.319","value":"Guadalupe"}
+,{"c_digo_dane_del_departamento":"41","departamento":"Huila","c_digo_dane_del_value":"41.349","value":"Hobo"}
+,{"c_digo_dane_del_departamento":"41","departamento":"Huila","c_digo_dane_del_value":"41.357","value":"Iquira"}
+,{"c_digo_dane_del_departamento":"41","departamento":"Huila","c_digo_dane_del_value":"41.359","value":"Isnos"}
+,{"c_digo_dane_del_departamento":"41","departamento":"Huila","c_digo_dane_del_value":"41.378","value":"La Argentina"}
+,{"c_digo_dane_del_departamento":"41","departamento":"Huila","c_digo_dane_del_value":"41.396","value":"La Plata"}
+,{"c_digo_dane_del_departamento":"41","departamento":"Huila","c_digo_dane_del_value":"41.483","value":"Nátaga"}
+,{"c_digo_dane_del_departamento":"41","departamento":"Huila","c_digo_dane_del_value":"41.503","value":"Oporapa"}
+,{"c_digo_dane_del_departamento":"41","departamento":"Huila","c_digo_dane_del_value":"41.518","value":"Paicol"}
+,{"c_digo_dane_del_departamento":"41","departamento":"Huila","c_digo_dane_del_value":"41.524","value":"Palermo"}
+,{"c_digo_dane_del_departamento":"41","departamento":"Huila","c_digo_dane_del_value":"41.53","value":"Palestina"}
+,{"c_digo_dane_del_departamento":"41","departamento":"Huila","c_digo_dane_del_value":"41.548","value":"Pital"}
+,{"c_digo_dane_del_departamento":"41","departamento":"Huila","c_digo_dane_del_value":"41.551","value":"Pitalito"}
+,{"c_digo_dane_del_departamento":"41","departamento":"Huila","c_digo_dane_del_value":"41.615","value":"Rivera"}
+,{"c_digo_dane_del_departamento":"41","departamento":"Huila","c_digo_dane_del_value":"41.66","value":"Saladoblanco"}
+,{"c_digo_dane_del_departamento":"41","departamento":"Huila","c_digo_dane_del_value":"41.676","value":"Santa María"}
+,{"c_digo_dane_del_departamento":"41","departamento":"Huila","c_digo_dane_del_value":"41.77","value":"Suaza"}
+,{"c_digo_dane_del_departamento":"41","departamento":"Huila","c_digo_dane_del_value":"41.791","value":"Tarqui"}
+,{"c_digo_dane_del_departamento":"41","departamento":"Huila","c_digo_dane_del_value":"41.797","value":"Tesalia"}
+,{"c_digo_dane_del_departamento":"41","departamento":"Huila","c_digo_dane_del_value":"41.799","value":"Tello"}
+,{"c_digo_dane_del_departamento":"41","departamento":"Huila","c_digo_dane_del_value":"41.801","value":"Teruel"}
+,{"c_digo_dane_del_departamento":"41","departamento":"Huila","c_digo_dane_del_value":"41.807","value":"Timaná"}
+,{"c_digo_dane_del_departamento":"41","departamento":"Huila","c_digo_dane_del_value":"41.872","value":"Villavieja"}
+,{"c_digo_dane_del_departamento":"41","departamento":"Huila","c_digo_dane_del_value":"41.885","value":"Yaguará"}
+,{"c_digo_dane_del_departamento":"44","departamento":"La Guajira","c_digo_dane_del_value":"44.001","value":"Riohacha"}
+,{"c_digo_dane_del_departamento":"44","departamento":"La Guajira","c_digo_dane_del_value":"44.035","value":"Albania"}
+,{"c_digo_dane_del_departamento":"44","departamento":"La Guajira","c_digo_dane_del_value":"44.078","value":"Barrancas"}
+,{"c_digo_dane_del_departamento":"44","departamento":"La Guajira","c_digo_dane_del_value":"44.09","value":"Dibula"}
+,{"c_digo_dane_del_departamento":"44","departamento":"La Guajira","c_digo_dane_del_value":"44.098","value":"Distracción"}
+,{"c_digo_dane_del_departamento":"44","departamento":"La Guajira","c_digo_dane_del_value":"44.11","value":"El Molino"}
+,{"c_digo_dane_del_departamento":"44","departamento":"La Guajira","c_digo_dane_del_value":"44.279","value":"Fonseca"}
+,{"c_digo_dane_del_departamento":"44","departamento":"La Guajira","c_digo_dane_del_value":"44.378","value":"Hatonuevo"}
+,{"c_digo_dane_del_departamento":"44","departamento":"La Guajira","c_digo_dane_del_value":"44.43","value":"Maicao"}
+,{"c_digo_dane_del_departamento":"44","departamento":"La Guajira","c_digo_dane_del_value":"44.56","value":"Manaure"}
+,{"c_digo_dane_del_departamento":"44","departamento":"La Guajira","c_digo_dane_del_value":"44.847","value":"Uribia"}
+,{"c_digo_dane_del_departamento":"44","departamento":"La Guajira","c_digo_dane_del_value":"44.855","value":"Urumita"}
+,{"c_digo_dane_del_departamento":"44","departamento":"La Guajira","c_digo_dane_del_value":"44.874","value":"Villanueva"}
+,{"c_digo_dane_del_departamento":"47","departamento":"Magdalena","c_digo_dane_del_value":"47.001","value":"Santa Marta"}
+,{"c_digo_dane_del_departamento":"47","departamento":"Magdalena","c_digo_dane_del_value":"47.03","value":"Algarrobo"}
+,{"c_digo_dane_del_departamento":"47","departamento":"Magdalena","c_digo_dane_del_value":"47.053","value":"Aracataca"}
+,{"c_digo_dane_del_departamento":"47","departamento":"Magdalena","c_digo_dane_del_value":"47.058","value":"Ariguaní"}
+,{"c_digo_dane_del_departamento":"47","departamento":"Magdalena","c_digo_dane_del_value":"47.161","value":"Cerro San Antonio"}
+,{"c_digo_dane_del_departamento":"47","departamento":"Magdalena","c_digo_dane_del_value":"47.17","value":"Chivolo"}
+,{"c_digo_dane_del_departamento":"47","departamento":"Magdalena","c_digo_dane_del_value":"47.205","value":"Concordia"}
+,{"c_digo_dane_del_departamento":"47","departamento":"Magdalena","c_digo_dane_del_value":"47.245","value":"El Banco"}
+,{"c_digo_dane_del_departamento":"47","departamento":"Magdalena","c_digo_dane_del_value":"47.258","value":"El Piñon"}
+,{"c_digo_dane_del_departamento":"47","departamento":"Magdalena","c_digo_dane_del_value":"47.268","value":"El Retén"}
+,{"c_digo_dane_del_departamento":"47","departamento":"Magdalena","c_digo_dane_del_value":"47.288","value":"Fundación"}
+,{"c_digo_dane_del_departamento":"47","departamento":"Magdalena","c_digo_dane_del_value":"47.318","value":"Guamal"}
+,{"c_digo_dane_del_departamento":"47","departamento":"Magdalena","c_digo_dane_del_value":"47.46","value":"Nueva Granada"}
+,{"c_digo_dane_del_departamento":"47","departamento":"Magdalena","c_digo_dane_del_value":"47.541","value":"Pedraza"}
+,{"c_digo_dane_del_departamento":"47","departamento":"Magdalena","c_digo_dane_del_value":"47.551","value":"Pivijay"}
+,{"c_digo_dane_del_departamento":"47","departamento":"Magdalena","c_digo_dane_del_value":"47.555","value":"Plato"}
+,{"c_digo_dane_del_departamento":"47","departamento":"Magdalena","c_digo_dane_del_value":"47.605","value":"Remolino"}
+,{"c_digo_dane_del_departamento":"47","departamento":"Magdalena","c_digo_dane_del_value":"47.675","value":"Salamina"}
+,{"c_digo_dane_del_departamento":"47","departamento":"Magdalena","c_digo_dane_del_value":"47.703","value":"San Zenón"}
+,{"c_digo_dane_del_departamento":"47","departamento":"Magdalena","c_digo_dane_del_value":"47.707","value":"Santa Ana"}
+,{"c_digo_dane_del_departamento":"47","departamento":"Magdalena","c_digo_dane_del_value":"47.745","value":"Sitionuevo"}
+,{"c_digo_dane_del_departamento":"47","departamento":"Magdalena","c_digo_dane_del_value":"47.798","value":"Tenerife"}
+,{"c_digo_dane_del_departamento":"47","departamento":"Magdalena","c_digo_dane_del_value":"47.96","value":"Zapayán"}
+,{"c_digo_dane_del_departamento":"47","departamento":"Magdalena","c_digo_dane_del_value":"47.98","value":"Zona Bananera"}
+,{"region":"Región Llano","c_digo_dane_del_departamento":"50","departamento":"Meta","c_digo_dane_del_value":"50.001","value":"Villavicencio"}
+,{"region":"Región Llano","c_digo_dane_del_departamento":"50","departamento":"Meta","c_digo_dane_del_value":"50.006","value":"Acacias"}
+,{"region":"Región Llano","c_digo_dane_del_departamento":"50","departamento":"Meta","c_digo_dane_del_value":"50.124","value":"Cabuyaro"}
+,{"region":"Región Llano","c_digo_dane_del_departamento":"50","departamento":"Meta","c_digo_dane_del_value":"50.223","value":"Cubarral"}
+,{"region":"Región Llano","c_digo_dane_del_departamento":"50","departamento":"Meta","c_digo_dane_del_value":"50.226","value":"Cumaral"}
+,{"region":"Región Llano","c_digo_dane_del_departamento":"50","departamento":"Meta","c_digo_dane_del_value":"50.245","value":"El Calvario"}
+,{"region":"Región Llano","c_digo_dane_del_departamento":"50","departamento":"Meta","c_digo_dane_del_value":"50.251","value":"El Castillo"}
+,{"region":"Región Llano","c_digo_dane_del_departamento":"50","departamento":"Meta","c_digo_dane_del_value":"50.27","value":"El Dorado"}
+,{"region":"Región Llano","c_digo_dane_del_departamento":"50","departamento":"Meta","c_digo_dane_del_value":"50.313","value":"Granada"}
+,{"region":"Región Llano","c_digo_dane_del_departamento":"50","departamento":"Meta","c_digo_dane_del_value":"50.318","value":"Guamal"}
+,{"region":"Región Llano","c_digo_dane_del_departamento":"50","departamento":"Meta","c_digo_dane_del_value":"50.325","value":"Mapiripán"}
+,{"region":"Región Llano","c_digo_dane_del_departamento":"50","departamento":"Meta","c_digo_dane_del_value":"50.33","value":"Mesetas"}
+,{"region":"Región Llano","c_digo_dane_del_departamento":"50","departamento":"Meta","c_digo_dane_del_value":"50.35","value":"La Macarena"}
+,{"region":"Región Llano","c_digo_dane_del_departamento":"50","departamento":"Meta","c_digo_dane_del_value":"50.4","value":"Lejanías"}
+,{"region":"Región Llano","c_digo_dane_del_departamento":"50","departamento":"Meta","c_digo_dane_del_value":"50.45","value":"Puerto Concordia"}
+,{"region":"Región Llano","c_digo_dane_del_departamento":"50","departamento":"Meta","c_digo_dane_del_value":"50.568","value":"Puerto Gaitán"}
+,{"region":"Región Llano","c_digo_dane_del_departamento":"50","departamento":"Meta","c_digo_dane_del_value":"50.573","value":"Puerto López"}
+,{"region":"Región Llano","c_digo_dane_del_departamento":"50","departamento":"Meta","c_digo_dane_del_value":"50.577","value":"Puerto Lleras"}
+,{"region":"Región Llano","c_digo_dane_del_departamento":"50","departamento":"Meta","c_digo_dane_del_value":"50.59","value":"Puerto Rico"}
+,{"region":"Región Llano","c_digo_dane_del_departamento":"50","departamento":"Meta","c_digo_dane_del_value":"50.606","value":"Restrepo"}
+,{"region":"Región Llano","c_digo_dane_del_departamento":"50","departamento":"Meta","c_digo_dane_del_value":"50.686","value":"San Juanito"}
+,{"region":"Región Llano","c_digo_dane_del_departamento":"50","departamento":"Meta","c_digo_dane_del_value":"50.689","value":"San Martín"}
+,{"region":"Región Llano","c_digo_dane_del_departamento":"50","departamento":"Meta","c_digo_dane_del_value":"50.711","value":"Vista Hermosa"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"52","departamento":"Nariño","c_digo_dane_del_value":"52.001","value":"Pasto"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"52","departamento":"Nariño","c_digo_dane_del_value":"52.019","value":"Albán"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"52","departamento":"Nariño","c_digo_dane_del_value":"52.022","value":"Aldana"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"52","departamento":"Nariño","c_digo_dane_del_value":"52.036","value":"Ancuyá"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"52","departamento":"Nariño","c_digo_dane_del_value":"52.079","value":"Barbacoas"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"52","departamento":"Nariño","c_digo_dane_del_value":"52.203","value":"Colón"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"52","departamento":"Nariño","c_digo_dane_del_value":"52.207","value":"Consaca"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"52","departamento":"Nariño","c_digo_dane_del_value":"52.21","value":"Contadero"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"52","departamento":"Nariño","c_digo_dane_del_value":"52.215","value":"Córdoba"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"52","departamento":"Nariño","c_digo_dane_del_value":"52.224","value":"Cuaspud"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"52","departamento":"Nariño","c_digo_dane_del_value":"52.227","value":"Cumbal"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"52","departamento":"Nariño","c_digo_dane_del_value":"52.233","value":"Cumbitara"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"52","departamento":"Nariño","c_digo_dane_del_value":"52.25","value":"El Charco"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"52","departamento":"Nariño","c_digo_dane_del_value":"52.254","value":"El Peñol"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"52","departamento":"Nariño","c_digo_dane_del_value":"52.256","value":"El Rosario"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"52","departamento":"Nariño","c_digo_dane_del_value":"52.26","value":"El Tambo"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"52","departamento":"Nariño","c_digo_dane_del_value":"52.287","value":"Funes"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"52","departamento":"Nariño","c_digo_dane_del_value":"52.317","value":"Guachucal"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"52","departamento":"Nariño","c_digo_dane_del_value":"52.32","value":"Guaitarilla"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"52","departamento":"Nariño","c_digo_dane_del_value":"52.323","value":"Gualmatán"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"52","departamento":"Nariño","c_digo_dane_del_value":"52.352","value":"Iles"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"52","departamento":"Nariño","c_digo_dane_del_value":"52.354","value":"Imués"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"52","departamento":"Nariño","c_digo_dane_del_value":"52.356","value":"Ipiales"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"52","departamento":"Nariño","c_digo_dane_del_value":"52.378","value":"La Cruz"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"52","departamento":"Nariño","c_digo_dane_del_value":"52.381","value":"La Florida"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"52","departamento":"Nariño","c_digo_dane_del_value":"52.385","value":"La Llanada"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"52","departamento":"Nariño","c_digo_dane_del_value":"52.39","value":"La Tola"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"52","departamento":"Nariño","c_digo_dane_del_value":"52.399","value":"La Unión"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"52","departamento":"Nariño","c_digo_dane_del_value":"52.405","value":"Leiva"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"52","departamento":"Nariño","c_digo_dane_del_value":"52.411","value":"Linares"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"52","departamento":"Nariño","c_digo_dane_del_value":"52.418","value":"Los Andes"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"52","departamento":"Nariño","c_digo_dane_del_value":"52.427","value":"Magüí"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"52","departamento":"Nariño","c_digo_dane_del_value":"52.435","value":"Mallama"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"52","departamento":"Nariño","c_digo_dane_del_value":"52.473","value":"Mosquera"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"52","departamento":"Nariño","c_digo_dane_del_value":"52.48","value":"Nariño"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"52","departamento":"Nariño","c_digo_dane_del_value":"52.49","value":"Olaya Herrera"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"52","departamento":"Nariño","c_digo_dane_del_value":"52.506","value":"Ospina"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"52","departamento":"Nariño","c_digo_dane_del_value":"52.52","value":"Francisco Pizarro"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"52","departamento":"Nariño","c_digo_dane_del_value":"52.54","value":"Policarpa"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"52","departamento":"Nariño","c_digo_dane_del_value":"52.56","value":"Potosí"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"52","departamento":"Nariño","c_digo_dane_del_value":"52.565","value":"Providencia"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"52","departamento":"Nariño","c_digo_dane_del_value":"52.573","value":"Puerres"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"52","departamento":"Nariño","c_digo_dane_del_value":"52.585","value":"Pupiales"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"52","departamento":"Nariño","c_digo_dane_del_value":"52.612","value":"Ricaurte"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"52","departamento":"Nariño","c_digo_dane_del_value":"52.621","value":"Roberto Payán"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"52","departamento":"Nariño","c_digo_dane_del_value":"52.678","value":"Samaniego"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"52","departamento":"Nariño","c_digo_dane_del_value":"52.683","value":"Sandoná"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"52","departamento":"Nariño","c_digo_dane_del_value":"52.685","value":"San Bernardo"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"52","departamento":"Nariño","c_digo_dane_del_value":"52.687","value":"San Lorenzo"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"52","departamento":"Nariño","c_digo_dane_del_value":"52.693","value":"San Pablo"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"52","departamento":"Nariño","c_digo_dane_del_value":"52.696","value":"Santa Bárbara"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"52","departamento":"Nariño","c_digo_dane_del_value":"52.72","value":"Sapuyes"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"52","departamento":"Nariño","c_digo_dane_del_value":"52.786","value":"Taminango"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"52","departamento":"Nariño","c_digo_dane_del_value":"52.788","value":"Tangua"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"52","departamento":"Nariño","c_digo_dane_del_value":"52.838","value":"Túquerres"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"52","departamento":"Nariño","c_digo_dane_del_value":"52.885","value":"Yacuanquer"}
+,{"departamento":"Quindío","c_digo_dane_del_value":"63.001","value":"Armenia"}
+,{"departamento":"Quindío","c_digo_dane_del_value":"63.111","value":"Buenavista"}
+,{"departamento":"Quindío","c_digo_dane_del_value":"63.19","value":"Circasia"}
+,{"departamento":"Quindío","c_digo_dane_del_value":"63.212","value":"Córdoba"}
+,{"departamento":"Quindío","c_digo_dane_del_value":"63.272","value":"Filandia"}
+,{"departamento":"Quindío","c_digo_dane_del_value":"63.401","value":"La Tebaida"}
+,{"departamento":"Quindío","c_digo_dane_del_value":"63.47","value":"Montenegro"}
+,{"departamento":"Quindío","c_digo_dane_del_value":"63.548","value":"Pijao"}
+,{"departamento":"Quindío","c_digo_dane_del_value":"63.594","value":"Quimbaya"}
+,{"departamento":"Quindío","c_digo_dane_del_value":"63.69","value":"Salento"}
+,{"departamento":"Risaralda","c_digo_dane_del_value":"66.001","value":"Pereira"}
+,{"departamento":"Risaralda","c_digo_dane_del_value":"66.045","value":"Apía"}
+,{"departamento":"Risaralda","c_digo_dane_del_value":"66.075","value":"Balboa"}
+,{"departamento":"Risaralda","c_digo_dane_del_value":"66.17","value":"Dosquebradas"}
+,{"departamento":"Risaralda","c_digo_dane_del_value":"66.318","value":"Guática"}
+,{"departamento":"Risaralda","c_digo_dane_del_value":"66.383","value":"La Celia"}
+,{"departamento":"Risaralda","c_digo_dane_del_value":"66.4","value":"La Virginia"}
+,{"departamento":"Risaralda","c_digo_dane_del_value":"66.44","value":"Marsella"}
+,{"departamento":"Risaralda","c_digo_dane_del_value":"66.456","value":"Mistrató"}
+,{"departamento":"Risaralda","c_digo_dane_del_value":"66.572","value":"Pueblo Rico"}
+,{"departamento":"Risaralda","c_digo_dane_del_value":"66.594","value":"Quinchía"}
+,{"departamento":"Risaralda","c_digo_dane_del_value":"66.687","value":"Santuario"}
+,{"departamento":"Santander","c_digo_dane_del_value":"68.001","value":"Bucaramanga"}
+,{"departamento":"Santander","c_digo_dane_del_value":"68.013","value":"Aguada"}
+,{"departamento":"Santander","c_digo_dane_del_value":"68.02","value":"Albania"}
+,{"departamento":"Santander","c_digo_dane_del_value":"68.051","value":"Aratoca"}
+,{"departamento":"Santander","c_digo_dane_del_value":"68.077","value":"Barbosa"}
+,{"departamento":"Santander","c_digo_dane_del_value":"68.079","value":"Barichara"}
+,{"departamento":"Santander","c_digo_dane_del_value":"68.081","value":"Barrancabermeja"}
+,{"departamento":"Santander","c_digo_dane_del_value":"68.092","value":"Betulia"}
+,{"departamento":"Santander","c_digo_dane_del_value":"68.101","value":"Bolívar"}
+,{"departamento":"Santander","c_digo_dane_del_value":"68.121","value":"Cabrera"}
+,{"departamento":"Santander","c_digo_dane_del_value":"68.132","value":"California"}
+,{"departamento":"Santander","c_digo_dane_del_value":"68.152","value":"Carcasí"}
+,{"departamento":"Santander","c_digo_dane_del_value":"68.16","value":"Cepitá"}
+,{"departamento":"Santander","c_digo_dane_del_value":"68.162","value":"Cerrito"}
+,{"departamento":"Santander","c_digo_dane_del_value":"68.167","value":"Charalá"}
+,{"departamento":"Santander","c_digo_dane_del_value":"68.169","value":"Charta"}
+,{"departamento":"Santander","c_digo_dane_del_value":"68.179","value":"Chipatá"}
+,{"departamento":"Santander","c_digo_dane_del_value":"68.19","value":"Cimitarra"}
+,{"departamento":"Santander","c_digo_dane_del_value":"68.207","value":"Concepción"}
+,{"departamento":"Santander","c_digo_dane_del_value":"68.209","value":"Confines"}
+,{"departamento":"Santander","c_digo_dane_del_value":"68.211","value":"Contratación"}
+,{"departamento":"Santander","c_digo_dane_del_value":"68.217","value":"Coromoro"}
+,{"departamento":"Santander","c_digo_dane_del_value":"68.229","value":"Curití"}
+,{"departamento":"Santander","c_digo_dane_del_value":"68.245","value":"El Guacamayo"}
+,{"departamento":"Santander","c_digo_dane_del_value":"68.255","value":"El Playón"}
+,{"departamento":"Santander","c_digo_dane_del_value":"68.264","value":"Encino"}
+,{"departamento":"Santander","c_digo_dane_del_value":"68.266","value":"Enciso"}
+,{"departamento":"Santander","c_digo_dane_del_value":"68.271","value":"Florián"}
+,{"departamento":"Santander","c_digo_dane_del_value":"68.276","value":"Floridablanca"}
+,{"departamento":"Santander","c_digo_dane_del_value":"68.296","value":"Galán"}
+,{"departamento":"Santander","c_digo_dane_del_value":"68.298","value":"Gambita"}
+,{"departamento":"Santander","c_digo_dane_del_value":"68.307","value":"Girón"}
+,{"departamento":"Santander","c_digo_dane_del_value":"68.318","value":"Guaca"}
+,{"departamento":"Santander","c_digo_dane_del_value":"68.32","value":"Guadalupe"}
+,{"departamento":"Santander","c_digo_dane_del_value":"68.322","value":"Guapotá"}
+,{"departamento":"Santander","c_digo_dane_del_value":"68.324","value":"Guavatá"}
+,{"departamento":"Santander","c_digo_dane_del_value":"68.327","value":"Güepsa"}
+,{"departamento":"Santander","c_digo_dane_del_value":"68.368","value":"Jesús María"}
+,{"departamento":"Santander","c_digo_dane_del_value":"68.37","value":"Jordán"}
+,{"departamento":"Santander","c_digo_dane_del_value":"68.377","value":"La Belleza"}
+,{"departamento":"Santander","c_digo_dane_del_value":"68.385","value":"Landázuri"}
+,{"departamento":"Santander","c_digo_dane_del_value":"68.397","value":"La Paz"}
+,{"departamento":"Santander","c_digo_dane_del_value":"68.406","value":"Lebríja"}
+,{"departamento":"Santander","c_digo_dane_del_value":"68.418","value":"Los Santos"}
+,{"departamento":"Santander","c_digo_dane_del_value":"68.425","value":"Macaravita"}
+,{"departamento":"Santander","c_digo_dane_del_value":"68.432","value":"Málaga"}
+,{"departamento":"Santander","c_digo_dane_del_value":"68.444","value":"Matanza"}
+,{"departamento":"Santander","c_digo_dane_del_value":"68.464","value":"Mogotes"}
+,{"departamento":"Santander","c_digo_dane_del_value":"68.468","value":"Molagavita"}
+,{"departamento":"Santander","c_digo_dane_del_value":"68.498","value":"Ocamonte"}
+,{"departamento":"Santander","c_digo_dane_del_value":"68.5","value":"Oiba"}
+,{"departamento":"Santander","c_digo_dane_del_value":"68.502","value":"Onzaga"}
+,{"departamento":"Santander","c_digo_dane_del_value":"68.522","value":"Palmar"}
+,{"departamento":"Santander","c_digo_dane_del_value":"68.533","value":"Páramo"}
+,{"departamento":"Santander","c_digo_dane_del_value":"68.547","value":"Piedecuesta"}
+,{"departamento":"Santander","c_digo_dane_del_value":"68.549","value":"Pinchote"}
+,{"departamento":"Santander","c_digo_dane_del_value":"68.572","value":"Puente Nacional"}
+,{"departamento":"Santander","c_digo_dane_del_value":"68.615","value":"Rionegro"}
+,{"departamento":"Santander","c_digo_dane_del_value":"68.669","value":"San Andrés"}
+,{"departamento":"Santander","c_digo_dane_del_value":"68.679","value":"San Gil"}
+,{"departamento":"Santander","c_digo_dane_del_value":"68.682","value":"San Joaquín"}
+,{"departamento":"Santander","c_digo_dane_del_value":"68.686","value":"San Miguel"}
+,{"departamento":"Santander","c_digo_dane_del_value":"68.705","value":"Santa Bárbara"}
+,{"departamento":"Santander","c_digo_dane_del_value":"68.745","value":"Simacota"}
+,{"departamento":"Santander","c_digo_dane_del_value":"68.755","value":"Socorro"}
+,{"departamento":"Santander","c_digo_dane_del_value":"68.77","value":"Suaita"}
+,{"departamento":"Santander","c_digo_dane_del_value":"68.773","value":"Sucre"}
+,{"departamento":"Santander","c_digo_dane_del_value":"68.78","value":"Suratá"}
+,{"departamento":"Santander","c_digo_dane_del_value":"68.82","value":"Tona"}
+,{"departamento":"Santander","c_digo_dane_del_value":"68.861","value":"Vélez"}
+,{"departamento":"Santander","c_digo_dane_del_value":"68.867","value":"Vetas"}
+,{"departamento":"Santander","c_digo_dane_del_value":"68.872","value":"Villanueva"}
+,{"departamento":"Santander","c_digo_dane_del_value":"68.895","value":"Zapatoca"}
+,{"departamento":"Sucre","c_digo_dane_del_value":"70.001","value":"Sincelejo"}
+,{"departamento":"Sucre","c_digo_dane_del_value":"70.11","value":"Buenavista"}
+,{"departamento":"Sucre","c_digo_dane_del_value":"70.124","value":"Caimito"}
+,{"departamento":"Sucre","c_digo_dane_del_value":"70.204","value":"Coloso"}
+,{"departamento":"Sucre","c_digo_dane_del_value":"70.221","value":"Coveñas"}
+,{"departamento":"Sucre","c_digo_dane_del_value":"70.23","value":"Chalán"}
+,{"departamento":"Sucre","c_digo_dane_del_value":"70.233","value":"El Roble"}
+,{"departamento":"Sucre","c_digo_dane_del_value":"70.235","value":"Galeras"}
+,{"departamento":"Sucre","c_digo_dane_del_value":"70.265","value":"Guaranda"}
+,{"departamento":"Sucre","c_digo_dane_del_value":"70.4","value":"La Unión"}
+,{"departamento":"Sucre","c_digo_dane_del_value":"70.418","value":"Los Palmitos"}
+,{"departamento":"Sucre","c_digo_dane_del_value":"70.429","value":"Majagual"}
+,{"departamento":"Sucre","c_digo_dane_del_value":"70.473","value":"Morroa"}
+,{"departamento":"Sucre","c_digo_dane_del_value":"70.508","value":"Ovejas"}
+,{"departamento":"Sucre","c_digo_dane_del_value":"70.523","value":"Palmito"}
+,{"departamento":"Sucre","c_digo_dane_del_value":"70.678","value":"San Benito Abad"}
+,{"departamento":"Sucre","c_digo_dane_del_value":"70.708","value":"San Marcos"}
+,{"departamento":"Sucre","c_digo_dane_del_value":"70.713","value":"San Onofre"}
+,{"departamento":"Sucre","c_digo_dane_del_value":"70.717","value":"San Pedro"}
+,{"departamento":"Sucre","c_digo_dane_del_value":"70.771","value":"Sucre"}
+,{"departamento":"Sucre","c_digo_dane_del_value":"70.823","value":"Tolú Viejo"}
+,{"departamento":"Tolima","c_digo_dane_del_value":"73.024","value":"Alpujarra"}
+,{"departamento":"Tolima","c_digo_dane_del_value":"73.026","value":"Alvarado"}
+,{"departamento":"Tolima","c_digo_dane_del_value":"73.03","value":"Ambalema"}
+,{"departamento":"Tolima","c_digo_dane_del_value":"73.055","value":"Armero"}
+,{"departamento":"Tolima","c_digo_dane_del_value":"73.067","value":"Ataco"}
+,{"departamento":"Tolima","c_digo_dane_del_value":"73.124","value":"Cajamarca"}
+,{"departamento":"Tolima","c_digo_dane_del_value":"73.168","value":"Chaparral"}
+,{"departamento":"Tolima","c_digo_dane_del_value":"73.2","value":"Coello"}
+,{"departamento":"Tolima","c_digo_dane_del_value":"73.217","value":"Coyaima"}
+,{"departamento":"Tolima","c_digo_dane_del_value":"73.226","value":"Cunday"}
+,{"departamento":"Tolima","c_digo_dane_del_value":"73.236","value":"Dolores"}
+,{"departamento":"Tolima","c_digo_dane_del_value":"73.268","value":"Espinal"}
+,{"departamento":"Tolima","c_digo_dane_del_value":"73.27","value":"Falan"}
+,{"departamento":"Tolima","c_digo_dane_del_value":"73.275","value":"Flandes"}
+,{"departamento":"Tolima","c_digo_dane_del_value":"73.283","value":"Fresno"}
+,{"departamento":"Tolima","c_digo_dane_del_value":"73.319","value":"Guamo"}
+,{"departamento":"Tolima","c_digo_dane_del_value":"73.347","value":"Herveo"}
+,{"departamento":"Tolima","c_digo_dane_del_value":"73.349","value":"Honda"}
+,{"departamento":"Tolima","c_digo_dane_del_value":"73.352","value":"Icononzo"}
+,{"departamento":"Tolima","c_digo_dane_del_value":"73.443","value":"Mariquita"}
+,{"departamento":"Tolima","c_digo_dane_del_value":"73.449","value":"Melgar"}
+,{"departamento":"Tolima","c_digo_dane_del_value":"73.461","value":"Murillo"}
+,{"departamento":"Tolima","c_digo_dane_del_value":"73.483","value":"Natagaima"}
+,{"departamento":"Tolima","c_digo_dane_del_value":"73.504","value":"Ortega"}
+,{"departamento":"Tolima","c_digo_dane_del_value":"73.52","value":"Palocabildo"}
+,{"departamento":"Tolima","c_digo_dane_del_value":"73.547","value":"Piedras"}
+,{"departamento":"Tolima","c_digo_dane_del_value":"73.555","value":"Planadas"}
+,{"departamento":"Tolima","c_digo_dane_del_value":"73.563","value":"Prado"}
+,{"departamento":"Tolima","c_digo_dane_del_value":"73.585","value":"Purificación"}
+,{"departamento":"Tolima","c_digo_dane_del_value":"73.616","value":"Rio Blanco"}
+,{"departamento":"Tolima","c_digo_dane_del_value":"73.622","value":"Roncesvalles"}
+,{"departamento":"Tolima","c_digo_dane_del_value":"73.624","value":"Rovira"}
+,{"departamento":"Tolima","c_digo_dane_del_value":"73.671","value":"Saldaña"}
+,{"departamento":"Tolima","c_digo_dane_del_value":"73.686","value":"Santa Isabel"}
+,{"departamento":"Tolima","c_digo_dane_del_value":"73.861","value":"Venadillo"}
+,{"departamento":"Tolima","c_digo_dane_del_value":"73.87","value":"Villahermosa"}
+,{"departamento":"Tolima","c_digo_dane_del_value":"73.873","value":"Villarrica"}
+,{"region":"Región Llano","c_digo_dane_del_departamento":"81","departamento":"Arauca","c_digo_dane_del_value":"81.065","value":"Arauquita"}
+,{"region":"Región Llano","c_digo_dane_del_departamento":"81","departamento":"Arauca","c_digo_dane_del_value":"81.22","value":"Cravo Norte"}
+,{"region":"Región Llano","c_digo_dane_del_departamento":"81","departamento":"Arauca","c_digo_dane_del_value":"81.3","value":"Fortul"}
+,{"region":"Región Llano","c_digo_dane_del_departamento":"81","departamento":"Arauca","c_digo_dane_del_value":"81.591","value":"Puerto Rondón"}
+,{"region":"Región Llano","c_digo_dane_del_departamento":"81","departamento":"Arauca","c_digo_dane_del_value":"81.736","value":"Saravena"}
+,{"region":"Región Llano","c_digo_dane_del_departamento":"81","departamento":"Arauca","c_digo_dane_del_value":"81.794","value":"Tame"}
+,{"region":"Región Llano","c_digo_dane_del_departamento":"81","departamento":"Arauca","c_digo_dane_del_value":"81.001","value":"Arauca"}
+,{"region":"Región Llano","c_digo_dane_del_departamento":"85","departamento":"Casanare","c_digo_dane_del_value":"85.001","value":"Yopal"}
+,{"region":"Región Llano","c_digo_dane_del_departamento":"85","departamento":"Casanare","c_digo_dane_del_value":"85.01","value":"Aguazul"}
+,{"region":"Región Llano","c_digo_dane_del_departamento":"85","departamento":"Casanare","c_digo_dane_del_value":"85.015","value":"Chámeza"}
+,{"region":"Región Llano","c_digo_dane_del_departamento":"85","departamento":"Casanare","c_digo_dane_del_value":"85.125","value":"Hato Corozal"}
+,{"region":"Región Llano","c_digo_dane_del_departamento":"85","departamento":"Casanare","c_digo_dane_del_value":"85.136","value":"La Salina"}
+,{"region":"Región Llano","c_digo_dane_del_departamento":"85","departamento":"Casanare","c_digo_dane_del_value":"85.162","value":"Monterrey"}
+,{"region":"Región Llano","c_digo_dane_del_departamento":"85","departamento":"Casanare","c_digo_dane_del_value":"85.263","value":"Pore"}
+,{"region":"Región Llano","c_digo_dane_del_departamento":"85","departamento":"Casanare","c_digo_dane_del_value":"85.279","value":"Recetor"}
+,{"region":"Región Llano","c_digo_dane_del_departamento":"85","departamento":"Casanare","c_digo_dane_del_value":"85.3","value":"Sabanalarga"}
+,{"region":"Región Llano","c_digo_dane_del_departamento":"85","departamento":"Casanare","c_digo_dane_del_value":"85.315","value":"Sácama"}
+,{"region":"Región Llano","c_digo_dane_del_departamento":"85","departamento":"Casanare","c_digo_dane_del_value":"85.41","value":"Tauramena"}
+,{"region":"Región Llano","c_digo_dane_del_departamento":"85","departamento":"Casanare","c_digo_dane_del_value":"85.43","value":"Trinidad"}
+,{"region":"Región Llano","c_digo_dane_del_departamento":"85","departamento":"Casanare","c_digo_dane_del_value":"85.44","value":"Villanueva"}
+,{"c_digo_dane_del_departamento":"86","departamento":"Putumayo","c_digo_dane_del_value":"86.001","value":"Mocoa"}
+,{"c_digo_dane_del_departamento":"86","departamento":"Putumayo","c_digo_dane_del_value":"86.219","value":"Colón"}
+,{"c_digo_dane_del_departamento":"86","departamento":"Putumayo","c_digo_dane_del_value":"86.32","value":"Orito"}
+,{"c_digo_dane_del_departamento":"86","departamento":"Putumayo","c_digo_dane_del_value":"86.569","value":"Puerto Caicedo"}
+,{"c_digo_dane_del_departamento":"86","departamento":"Putumayo","c_digo_dane_del_value":"86.571","value":"Puerto Guzmán"}
+,{"c_digo_dane_del_departamento":"86","departamento":"Putumayo","c_digo_dane_del_value":"86.573","value":"Leguízamo"}
+,{"c_digo_dane_del_departamento":"86","departamento":"Putumayo","c_digo_dane_del_value":"86.749","value":"Sibundoy"}
+,{"c_digo_dane_del_departamento":"86","departamento":"Putumayo","c_digo_dane_del_value":"86.755","value":"San Francisco"}
+,{"c_digo_dane_del_departamento":"86","departamento":"Putumayo","c_digo_dane_del_value":"86.757","value":"San Miguel"}
+,{"c_digo_dane_del_departamento":"86","departamento":"Putumayo","c_digo_dane_del_value":"86.76","value":"Santiago"}
+,{"c_digo_dane_del_departamento":"91","departamento":"Amazonas","c_digo_dane_del_value":"91.001","value":"Leticia"}
+,{"c_digo_dane_del_departamento":"91","departamento":"Amazonas","c_digo_dane_del_value":"91.263","value":"El Encanto"}
+,{"c_digo_dane_del_departamento":"91","departamento":"Amazonas","c_digo_dane_del_value":"91.405","value":"La Chorrera"}
+,{"c_digo_dane_del_departamento":"91","departamento":"Amazonas","c_digo_dane_del_value":"91.407","value":"La Pedrera"}
+,{"c_digo_dane_del_departamento":"91","departamento":"Amazonas","c_digo_dane_del_value":"91.43","value":"La Victoria"}
+,{"c_digo_dane_del_departamento":"91","departamento":"Amazonas","c_digo_dane_del_value":"91.536","value":"Puerto Arica"}
+,{"c_digo_dane_del_departamento":"91","departamento":"Amazonas","c_digo_dane_del_value":"91.54","value":"Puerto Nariño"}
+,{"c_digo_dane_del_departamento":"91","departamento":"Amazonas","c_digo_dane_del_value":"91.669","value":"Puerto Santander"}
+,{"c_digo_dane_del_departamento":"91","departamento":"Amazonas","c_digo_dane_del_value":"91.798","value":"Tarapacá"}
+,{"region":"Región Llano","c_digo_dane_del_departamento":"94","departamento":"Guainía","c_digo_dane_del_value":"94.001","value":"Inírida"}
+,{"region":"Región Llano","c_digo_dane_del_departamento":"94","departamento":"Guainía","c_digo_dane_del_value":"94.343","value":"Barranco Minas"}
+,{"region":"Región Llano","c_digo_dane_del_departamento":"94","departamento":"Guainía","c_digo_dane_del_value":"94.663","value":"Mapiripana"}
+,{"region":"Región Llano","c_digo_dane_del_departamento":"94","departamento":"Guainía","c_digo_dane_del_value":"94.883","value":"San Felipe"}
+,{"region":"Región Llano","c_digo_dane_del_departamento":"94","departamento":"Guainía","c_digo_dane_del_value":"94.884","value":"Puerto Colombia"}
+,{"region":"Región Llano","c_digo_dane_del_departamento":"94","departamento":"Guainía","c_digo_dane_del_value":"94.885","value":"La Guadalupe"}
+,{"region":"Región Llano","c_digo_dane_del_departamento":"94","departamento":"Guainía","c_digo_dane_del_value":"94.886","value":"Cacahual"}
+,{"region":"Región Llano","c_digo_dane_del_departamento":"94","departamento":"Guainía","c_digo_dane_del_value":"94.887","value":"Pana Pana"}
+,{"c_digo_dane_del_departamento":"97","departamento":"Vaupés","c_digo_dane_del_value":"97.001","value":"Mitú"}
+,{"c_digo_dane_del_departamento":"97","departamento":"Vaupés","c_digo_dane_del_value":"97.161","value":"Carurú"}
+,{"c_digo_dane_del_departamento":"97","departamento":"Vaupés","c_digo_dane_del_value":"97.666","value":"Taraira"}
+,{"c_digo_dane_del_departamento":"97","departamento":"Vaupés","c_digo_dane_del_value":"97.777","value":"Papunahua"}
+,{"c_digo_dane_del_departamento":"97","departamento":"Vaupés","c_digo_dane_del_value":"97.889","value":"Yavaraté"}
+,{"c_digo_dane_del_departamento":"97","departamento":"Vaupés","c_digo_dane_del_value":"97.511","value":"Pacoa"}
+,{"region":"Región Llano","c_digo_dane_del_departamento":"94","departamento":"Guainía","c_digo_dane_del_value":"94.888","value":"Morichal"}
+,{"region":"Región Llano","c_digo_dane_del_departamento":"99","departamento":"Vichada","c_digo_dane_del_value":"99.001","value":"Puerto Carreño"}
+,{"region":"Región Llano","c_digo_dane_del_departamento":"99","departamento":"Vichada","c_digo_dane_del_value":"99.524","value":"La Primavera"}
+,{"region":"Región Llano","c_digo_dane_del_departamento":"99","departamento":"Vichada","c_digo_dane_del_value":"99.624","value":"Santa Rosalía"}
+,{"region":"Región Llano","c_digo_dane_del_departamento":"99","departamento":"Vichada","c_digo_dane_del_value":"99.773","value":"Cumaribo"}
+,{"c_digo_dane_del_departamento":"18","departamento":"Caquetá","c_digo_dane_del_value":"18.61","value":"San José del Fragua"}
+,{"region":"Región Llano","c_digo_dane_del_departamento":"50","departamento":"Meta","c_digo_dane_del_value":"50.11","value":"Barranca de Upía"}
+,{"c_digo_dane_del_departamento":"68","departamento":"Santander","c_digo_dane_del_value":"68.524","value":"Palmas del Socorro"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.662","value":"San Juan de Río Seco"}
+,{"c_digo_dane_del_departamento":"8","departamento":"Atlántico","c_digo_dane_del_value":"8.372","value":"Juan de Acosta"}
+,{"region":"Región Llano","c_digo_dane_del_departamento":"50","departamento":"Meta","c_digo_dane_del_value":"50.287","value":"Fuente de Oro"}
+,{"region":"Región Llano","c_digo_dane_del_departamento":"85","departamento":"Casanare","c_digo_dane_del_value":"85.325","value":"San Luis de Gaceno"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"27","departamento":"Chocó","c_digo_dane_del_value":"27.25","value":"El Litoral del San Juan"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.843","value":"Villa de San Diego de Ubate"}
+,{"c_digo_dane_del_departamento":"13","departamento":"Bolívar","c_digo_dane_del_value":"13.074","value":"Barranco de Loba"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.816","value":"Togüí"}
+,{"c_digo_dane_del_departamento":"13","departamento":"Bolívar","c_digo_dane_del_value":"13.688","value":"Santa Rosa del Sur"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"27","departamento":"Chocó","c_digo_dane_del_value":"27.135","value":"El Cantón del San Pablo"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.407","value":"Villa de Leyva"}
+,{"c_digo_dane_del_departamento":"47","departamento":"Magdalena","c_digo_dane_del_value":"47.692","value":"San Sebastián de Buenavista"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.537","value":"Paz de Río"}
+,{"c_digo_dane_del_departamento":"13","departamento":"Bolívar","c_digo_dane_del_value":"13.3","value":"Hatillo de Loba"}
+,{"c_digo_dane_del_departamento":"47","departamento":"Magdalena","c_digo_dane_del_value":"47.66","value":"Sabanas de San Angel"}
+,{"region":"Región Llano","c_digo_dane_del_departamento":"95","departamento":"Guaviare","c_digo_dane_del_value":"95.015","value":"Calamar"}
+,{"c_digo_dane_del_departamento":"20","departamento":"Cesar","c_digo_dane_del_value":"20.614","value":"Río de Oro"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.665","value":"San Pedro de Uraba"}
+,{"region":"Región Llano","c_digo_dane_del_departamento":"95","departamento":"Guaviare","c_digo_dane_del_value":"95.001","value":"San José del Guaviare"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.693","value":"Santa Rosa de Viterbo"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"19","departamento":"Cauca","c_digo_dane_del_value":"19.698","value":"Santander de Quilichao"}
+,{"region":"Región Llano","c_digo_dane_del_departamento":"95","departamento":"Guaviare","c_digo_dane_del_value":"95.2","value":"Miraflores"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.042","value":"Santafé de Antioquia"}
+,{"region":"Región Llano","c_digo_dane_del_departamento":"50","departamento":"Meta","c_digo_dane_del_value":"50.68","value":"San Carlos de Guaroa"}
+,{"c_digo_dane_del_departamento":"8","departamento":"Atlántico","c_digo_dane_del_value":"8.52","value":"Palmar de Varela"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.686","value":"Santa Rosa de Osos"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.647","value":"San Andrés de Cuerquía"}
+,{"c_digo_dane_del_departamento":"73","departamento":"Tolima","c_digo_dane_del_value":"73.854","value":"Valle de San Juan"}
+,{"c_digo_dane_del_departamento":"68","departamento":"Santander","c_digo_dane_del_value":"68.689","value":"San Vicente de Chucurí"}
+,{"c_digo_dane_del_departamento":"68","departamento":"Santander","c_digo_dane_del_value":"68.684","value":"San José de Miranda"}
+,{"c_digo_dane_del_departamento":"88","departamento":"Archipiélago de San Andrés, Providencia y Santa Catalina","c_digo_dane_del_value":"88.564","value":"Providencia"}
+,{"departamento":"Risaralda","c_digo_dane_del_value":"66.682","value":"Santa Rosa de Cabal"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.328","value":"Guayabal de Siquima"}
+,{"c_digo_dane_del_departamento":"18","departamento":"Caquetá","c_digo_dane_del_value":"18.094","value":"Belén de Los Andaquies"}
+,{"region":"Región Llano","c_digo_dane_del_departamento":"85","departamento":"Casanare","c_digo_dane_del_value":"85.25","value":"Paz de Ariporo"}
+,{"c_digo_dane_del_departamento":"68","departamento":"Santander","c_digo_dane_del_value":"68.72","value":"Santa Helena del Opón"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.681","value":"San Pablo de Borbur"}
+,{"c_digo_dane_del_departamento":"44","departamento":"La Guajira","c_digo_dane_del_value":"44.42","value":"La Jagua del Pilar"}
+,{"c_digo_dane_del_departamento":"20","departamento":"Cesar","c_digo_dane_del_value":"20.4","value":"La Jagua de Ibirico"}
+,{"c_digo_dane_del_departamento":"70","departamento":"Sucre","c_digo_dane_del_value":"70.742","value":"San Luis de Sincé"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.667","value":"San Luis de Gaceno"}
+,{"c_digo_dane_del_departamento":"13","departamento":"Bolívar","c_digo_dane_del_value":"13.244","value":"El Carmen de Bolívar"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"27","departamento":"Chocó","c_digo_dane_del_value":"27.245","value":"El Carmen de Atrato"}
+,{"c_digo_dane_del_departamento":"70","departamento":"Sucre","c_digo_dane_del_value":"70.702","value":"San Juan de Betulia"}
+,{"c_digo_dane_del_departamento":"47","departamento":"Magdalena","c_digo_dane_del_value":"47.545","value":"Pijiño del Carmen"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.873","value":"Vigía del Fuerte"}
+,{"c_digo_dane_del_departamento":"13","departamento":"Bolívar","c_digo_dane_del_value":"13.667","value":"San Martín de Loba"}
+,{"c_digo_dane_del_departamento":"13","departamento":"Bolívar","c_digo_dane_del_value":"13.03","value":"Altos del Rosario"}
+,{"c_digo_dane_del_departamento":"73","departamento":"Tolima","c_digo_dane_del_value":"73.148","value":"Carmen de Apicala"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.645","value":"San Antonio del Tequendama"}
+,{"c_digo_dane_del_departamento":"68","departamento":"Santander","c_digo_dane_del_value":"68.655","value":"Sabana de Torres"}
+,{"region":"Región Llano","c_digo_dane_del_departamento":"95","departamento":"Guaviare","c_digo_dane_del_value":"95.025","value":"El Retorno"}
+,{"c_digo_dane_del_departamento":"23","departamento":"Córdoba","c_digo_dane_del_value":"23.682","value":"San José de Uré"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"52","departamento":"Nariño","c_digo_dane_del_value":"52.694","value":"San Pedro de Cartago"}
+,{"c_digo_dane_del_departamento":"8","departamento":"Atlántico","c_digo_dane_del_value":"8.137","value":"Campo de La Cruz"}
+,{"region":"Región Llano","c_digo_dane_del_departamento":"50","departamento":"Meta","c_digo_dane_del_value":"50.683","value":"San Juan de Arama"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.658","value":"San José de La Montaña"}
+,{"c_digo_dane_del_departamento":"18","departamento":"Caquetá","c_digo_dane_del_value":"18.15","value":"Cartagena del Chairá"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"27","departamento":"Chocó","c_digo_dane_del_value":"27.66","value":"San José del Palmar"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.001","value":"Agua de Dios"}
+,{"c_digo_dane_del_departamento":"13","departamento":"Bolívar","c_digo_dane_del_value":"13.655","value":"San Jacinto del Cauca"}
+,{"c_digo_dane_del_departamento":"41","departamento":"Huila","c_digo_dane_del_value":"41.668","value":"San Agustín"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"52","departamento":"Nariño","c_digo_dane_del_value":"52.258","value":"El Tablón de Gómez"}
+,{"c_digo_dane_del_departamento":"88","departamento":"Archipiélago de San Andrés, Providencia y Santa Catalina","c_digo_dane_del_value":"88.001","value":"San Andrés"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.664","value":"San José de Pare"}
+,{"c_digo_dane_del_departamento":"86","departamento":"Putumayo","c_digo_dane_del_value":"86.865","value":"Valle de Guamez"}
+,{"c_digo_dane_del_departamento":"13","departamento":"Bolívar","c_digo_dane_del_value":"13.67","value":"San Pablo de Borbur"}
+,{"c_digo_dane_del_departamento":"70","departamento":"Sucre","c_digo_dane_del_value":"70.82","value":"Santiago de Tolú"}
+,{"c_digo_dane_del_departamento":"11","departamento":"Bogotá D.C.","c_digo_dane_del_value":"11.001","value":"Bogotá D.C."}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.154","value":"Carmen de Carupa"}
+,{"c_digo_dane_del_departamento":"23","departamento":"Córdoba","c_digo_dane_del_value":"23.189","value":"Ciénaga de Oro"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.659","value":"San Juan de Urabá"}
+,{"c_digo_dane_del_departamento":"44","departamento":"La Guajira","c_digo_dane_del_value":"44.65","value":"San Juan del Cesar"}
+,{"c_digo_dane_del_departamento":"68","departamento":"Santander","c_digo_dane_del_value":"68.235","value":"El Carmen de Chucurí"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.148","value":"El Carmen de Viboral"}
+,{"departamento":"Risaralda","c_digo_dane_del_value":"66.088","value":"Belén de Umbría"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"27","departamento":"Chocó","c_digo_dane_del_value":"27.086","value":"Belén de Bajira"}
+,{"c_digo_dane_del_departamento":"68","departamento":"Santander","c_digo_dane_del_value":"68.855","value":"Valle de San José"}
+,{"c_digo_dane_del_departamento":"73","departamento":"Tolima","c_digo_dane_del_value":"73.678","value":"San Luis"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.676","value":"San Miguel de Sema"}
+,{"c_digo_dane_del_departamento":"73","departamento":"Tolima","c_digo_dane_del_value":"73.675","value":"San Antonio"}
+,{"c_digo_dane_del_departamento":"68","departamento":"Santander","c_digo_dane_del_value":"68.673","value":"San Benito"}
+,{"c_digo_dane_del_departamento":"25","departamento":"Cundinamarca","c_digo_dane_del_value":"25.862","value":"Vergara"}
+,{"c_digo_dane_del_departamento":"23","departamento":"Córdoba","c_digo_dane_del_value":"23.678","value":"San Carlos"}
+,{"c_digo_dane_del_departamento":"91","departamento":"Amazonas","c_digo_dane_del_value":"91.53","value":"Puerto Alegría"}
+,{"c_digo_dane_del_departamento":"68","departamento":"Santander","c_digo_dane_del_value":"68.344","value":"Hato"}
+,{"c_digo_dane_del_departamento":"13","departamento":"Bolívar","c_digo_dane_del_value":"13.654","value":"San Jacinto"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"19","departamento":"Cauca","c_digo_dane_del_value":"19.693","value":"San Sebastián"}
+,{"departamento":"Antioquia","c_digo_dane_del_value":"5.649","value":"San Carlos"}
+,{"c_digo_dane_del_departamento":"15","departamento":"Boyacá","c_digo_dane_del_value":"15.837","value":"Tuta"}
+,{"c_digo_dane_del_departamento":"54","departamento":"Norte de Santander","c_digo_dane_del_value":"54.743","value":"Silos"}
+,{"c_digo_dane_del_departamento":"54","departamento":"Norte de Santander","c_digo_dane_del_value":"54.125","value":"Cácota"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"76","departamento":"Valle del Cauca","c_digo_dane_del_value":"76.25","value":"El Dovio"}
+,{"c_digo_dane_del_departamento":"54","departamento":"Norte de Santander","c_digo_dane_del_value":"54.82","value":"Toledo"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"76","departamento":"Valle del Cauca","c_digo_dane_del_value":"76.622","value":"Roldanillo"}
+,{"c_digo_dane_del_departamento":"54","departamento":"Norte de Santander","c_digo_dane_del_value":"54.48","value":"Mutiscua"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"76","departamento":"Valle del Cauca","c_digo_dane_del_value":"76.054","value":"Argelia"}
+,{"c_digo_dane_del_departamento":"54","departamento":"Norte de Santander","c_digo_dane_del_value":"54.261","value":"El Zulia"}
+,{"c_digo_dane_del_departamento":"54","departamento":"Norte de Santander","c_digo_dane_del_value":"54.66","value":"Salazar"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"76","departamento":"Valle del Cauca","c_digo_dane_del_value":"76.736","value":"Sevilla"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"76","departamento":"Valle del Cauca","c_digo_dane_del_value":"76.895","value":"Zarzal"}
+,{"c_digo_dane_del_departamento":"54","departamento":"Norte de Santander","c_digo_dane_del_value":"54.223","value":"Cucutilla"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"76","departamento":"Valle del Cauca","c_digo_dane_del_value":"76.248","value":"El Cerrito"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"76","departamento":"Valle del Cauca","c_digo_dane_del_value":"76.147","value":"Cartago"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"76","departamento":"Valle del Cauca","c_digo_dane_del_value":"76.122","value":"Caicedonia"}
+,{"c_digo_dane_del_departamento":"54","departamento":"Norte de Santander","c_digo_dane_del_value":"54.553","value":"Puerto Santander"}
+,{"c_digo_dane_del_departamento":"54","departamento":"Norte de Santander","c_digo_dane_del_value":"54.313","value":"Gramalote"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"76","departamento":"Valle del Cauca","c_digo_dane_del_value":"76.246","value":"El Cairo"}
+,{"c_digo_dane_del_departamento":"54","departamento":"Norte de Santander","c_digo_dane_del_value":"54.25","value":"El Tarra"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"76","departamento":"Valle del Cauca","c_digo_dane_del_value":"76.4","value":"La Unión"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"76","departamento":"Valle del Cauca","c_digo_dane_del_value":"76.606","value":"Restrepo"}
+,{"c_digo_dane_del_departamento":"54","departamento":"Norte de Santander","c_digo_dane_del_value":"54.8","value":"Teorama"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"76","departamento":"Valle del Cauca","c_digo_dane_del_value":"76.233","value":"Dagua"}
+,{"c_digo_dane_del_departamento":"54","departamento":"Norte de Santander","c_digo_dane_del_value":"54.051","value":"Arboledas"}
+,{"region":"Región Pacífico","c_digo_dane_del_departamento":"76","departamento":"Valle del Cauca","c_digo_dane_del_value":"76.318","value":"Guacarí"}]

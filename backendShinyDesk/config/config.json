@@ -1,0 +1,38 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "postgres",
+    "database": "shiny_dev",
+    "host": "localhost",
+    "dialect": "postgres",
+    "timezone": "America/Bogota"
+  },
+  "development2": {
+    "username": "root",
+    "password": null,
+    "database": "shiny_dev",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "shiny",
+    "password": "XIeoJw0rskJZz7SCbqj2oe0uZ3g3skVw",
+    "database": "shiny_desk_ble6",
+    "host": "oregon-postgres.render.com",
+    "dialect": "postgres",
+    "timezone": "America/Bogota",
+    "dialectOptions": {
+      "ssl": {
+        "require": true,
+        "rejectUnauthorized": false
+      }
+    }
+  }
+}
