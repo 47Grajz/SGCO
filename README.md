@@ -1,3 +1,13 @@
+# Introduccion
+
+El sistema de gestion para consultorios odontologicos o SGCO tiene como funcionalidad principal facilitar las tareas diarias que realizan los odontologos en su dia a dia y cuenta con las siguientes caracteristicas:
+        
+* Gestion de pacientes con sus respectivos datos
+* Agendamiento de citas y control de las mismas
+* Manejo de historias clinicas
+        
+
+
 
 # Instalacion SGCO
 
